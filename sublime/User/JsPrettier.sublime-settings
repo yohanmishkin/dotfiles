@@ -1,0 +1,5 @@
+{
+	"auto_format_on_save": true,
+  "auto_format_on_save_excludes": ["*.css", "*.rb", "*.md"],
+  "prettier_cli_path": "/Users/tj/.asdf/shims/prettier"
+}

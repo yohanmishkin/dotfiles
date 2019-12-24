@@ -1,0 +1,1224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"showAutmo",
+				"showAutomatixExportModal\tabc"
+			],
+			[
+				"succ",
+				"success\t(element-form-test.js)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/tj/code/dockyard/prodicle_calendar_api/src/spec/controllers/date_ranges_controller_spec.rb",
+			"settings":
+			{
+				"buffer_size": 3742,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/dockyard/prodicle_calendar_api/src/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 2360,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/dockyard/prodicle_calendar_api/src/spec/support/controllers_helper.rb",
+			"settings":
+			{
+				"buffer_size": 1901,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/dockyard/prodicle_calendar_api/src/app/controllers/date_ranges_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1560,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"blam",
+				"Sublime Merge: Blame File"
+			],
+			[
+				"his",
+				"Sublime Merge: File History"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"js",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"form",
+				"JsPrettier: Format Code"
+			],
+			[
+				"co",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"hi",
+				"Sublime Merge: File History"
+			],
+			[
+				"ope re",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"hist",
+				"Sublime Merge: File History"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ha",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"uin",
+				"Permute Lines: Unique"
+			],
+			[
+				"jsfor",
+				"JsPrettier: Format Code"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"jsp",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"pret",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rmeo\t",
+				"Package Control: Remove Package"
+			],
+			[
+				"new pr",
+				"Project Manager: Add New Project"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"jsprett",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"css\t",
+				"Set Syntax: CSS"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"/qwer"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tj/code/dockyard/prodicle_calendar_api",
+		"/Users/tj/code/dockyard/prodicle_calendar_api/src",
+		"/Users/tj/code/dockyard/prodicle_calendar_api/src/spec",
+		"/Users/tj/code/dockyard/prodicle_calendar_api/src/spec/controllers"
+	],
+	"file_history":
+	[
+		"/Users/tj/code/dockyard/prodicle_calendar_api/src/spec/support/controllers_helper.rb",
+		"/Users/tj/code/dockyard/prodicle_calendar_api/src/spec/controllers/project_calendar_users_controller_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_calendar_api/src/app/controllers/date_range_types_controller.rb",
+		"/Users/tj/code/dockyard/prodicle_calendar_api/src/app/controllers/date_ranges_controller.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/mirage/config.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/sides.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/script-table.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/projects/project.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/router.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/controllers/scripts/projects/project/index.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/script-information.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/script/sides/select-scenes.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/services/features.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/package.json",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/fixtures/uht-projects.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/fixtures/sessions.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/user.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/script-table.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/ad-hoc/index.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/element-form.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/scene-header.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/ad-hoc/sides.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/ad-hoc/sides.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/script.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/projects/project/sides.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/ad-hoc.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/application.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/projects/project/sides.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/project.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/ad-hoc.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/helpers/formatted-uploader.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/sides-list.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/category.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/scene-data-modal.js",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/sides-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/scene.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/sides-list/row.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/projects/project.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/sides-list.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/ad-hoc/index.js",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Packages/User/service.sublime-snippet",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/script-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/initializers/custom-inflector-rules.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/vendor/api.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/mirage/models/sides.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/docs/architecture-decision-records/001-ember-cli-mirage.md",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Packages/User/Color Scheme - MonokaiKNIFETOMEETYOU/MonokaiHAVEAIKNIFEDAY.tmTheme",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/docs/001-ember-cli-mirage.md",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/molasses.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/application.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/session.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/ember-cli-build.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/.eslintignore",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/config/environment.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/mirage/serializers/application.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/services/current-user.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/adapters/application.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/prodicle-access-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/add-shot.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/script-display.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/rename-category-modal.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/controllers/scripts/script/show.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/script/show.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/script.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/script/show.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/adhoc-settings.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/script/edit.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/index.html",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/root/etc/default/ezconfig",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/metrics-adapters/gtag.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/element.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/element-scene-display.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/category-scenes-left-drawer.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/category-list-item.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/shot-form.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/shot-form.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/shot.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/scene-list-item.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/README.md",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/script/show/export/choose-export-options.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/controllers/scripts/script/show/export/choose-export-options.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/services/sheet-export.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/add-shot.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/constants.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/fixtures/scripts.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/category-list-item.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/scene-shots.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/shots-tab.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/helpers/has-stuff-in-this-scene.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/helpers/should-show-category.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/element-form.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/breakdown-filter-list.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/helpers/scene-count.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/helpers/scene-count-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/element-scene-display.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/element-form-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/services/notifications.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/services/scroll-state-manager.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/scene-list-item.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/tag.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/app.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/category-list-item-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/tags-in-scene.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/element-scene.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/tags-in-scene.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/rename-category-modal-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/controllers/scripts/ad-hoc/index.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/has-stuff-in-scene-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/scene-list-item-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/stuff-in-scene.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/stuff-in-scene.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/has-stuff-in-scene.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/tag-edit.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/scene-modification-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/adhoc-settings.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/.eslintrc.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/script-display.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/.jira.d/config.yml",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/utils/drive-upload-widget.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/package-lock.json",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/err.txt",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/yik.html",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/utils/scroll-to.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/script-selection-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/script-selection.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/unit/services/features-test.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"",
+			"spec/",
+			"",
+			"app/controllers/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"include",
+			"include:",
+			"include",
+			"include:",
+			"included",
+			"include",
+			".where",
+			"where(",
+			"json",
+			"filter",
+			"stub_movi",
+			"filter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/tj/code/dockyard/prodicle_calendar_api/src/spec/controllers/date_ranges_controller_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/tj/code/dockyard/prodicle_calendar_api/src/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/tj/code/dockyard/prodicle_calendar_api/src/spec/support/controllers_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"_nv_visual_sel_mode": "mode_visual_line",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/tj/code/dockyard/prodicle_calendar_api/src/app/controllers/date_ranges_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								566,
+								566
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 18
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prodicle_calendar_api.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"src/config/routes.rb"
+			],
+			[
+				"helper",
+				"src/spec/support/controllers_helper.rb"
+			],
+			[
+				"daterang",
+				"src/app/controllers/date_ranges_controller.rb"
+			],
+			[
+				"models",
+				"src/app/models/sides.js"
+			],
+			[
+				"conf",
+				"src/mirage/config.js"
+			],
+			[
+				"confi",
+				"src/mirage/config.js"
+			],
+			[
+				"routes/side",
+				"src/app/routes/scripts/projects/project/sides.js"
+			],
+			[
+				"routes/sides",
+				"src/app/routes/scripts/ad-hoc/sides.js"
+			],
+			[
+				"scripttabhb",
+				"src/app/templates/components/script-table.hbs"
+			],
+			[
+				"sides",
+				"src/app/models/sides.js"
+			],
+			[
+				"sideslih",
+				"src/app/templates/components/sides-list.hbs"
+			],
+			[
+				"pac",
+				"src/package.json"
+			],
+			[
+				"feat",
+				"src/app/services/features.js"
+			],
+			[
+				"uht",
+				"src/tests/fixtures/uht-projects.js"
+			],
+			[
+				"user",
+				"src/app/models/user.js"
+			],
+			[
+				"sesss",
+				"src/tests/fixtures/sessions.js"
+			],
+			[
+				"router",
+				"src/app/router.js"
+			],
+			[
+				"rout",
+				"src/app/router.js"
+			],
+			[
+				"adhochb",
+				"src/app/templates/scripts/ad-hoc/index.hbs"
+			],
+			[
+				"selectsec",
+				"src/app/routes/scripts/script/sides/select-scenes.js"
+			],
+			[
+				"scriptta",
+				"src/app/components/script-table.js"
+			],
+			[
+				"scriptba",
+				"src/app/templates/components/script-table.hbs"
+			],
+			[
+				"index.js",
+				"src/app/controllers/scripts/projects/project/index.js"
+			],
+			[
+				"sideslisthb",
+				"src/app/templates/components/sides-list.hbs"
+			],
+			[
+				"sideshbs",
+				"src/app/templates/scripts/projects/project/sides.hbs"
+			],
+			[
+				"sidehbs",
+				"src/app/templates/scripts/ad-hoc/sides.hbs"
+			],
+			[
+				"script.js",
+				"src/app/models/script.js"
+			],
+			[
+				"apphbs",
+				"src/app/templates/application.hbs"
+			],
+			[
+				"proje",
+				"src/app/models/project.js"
+			],
+			[
+				"adhoc.js",
+				"src/app/routes/scripts/ad-hoc.js"
+			],
+			[
+				"adhohbs",
+				"src/app/templates/scripts/ad-hoc.hbs"
+			],
+			[
+				"models/sides",
+				"src/app/models/sides.js"
+			],
+			[
+				"sidehb",
+				"src/app/templates/scripts/projects/project/sides.hbs"
+			],
+			[
+				"scrip",
+				"src/app/models/script.js"
+			],
+			[
+				"sides.j",
+				"src/app/routes/scripts/projects/project/sides.js"
+			],
+			[
+				"scene",
+				"src/app/models/scene.js"
+			],
+			[
+				"rowhb",
+				"src/app/templates/components/sides-list/row.hbs"
+			],
+			[
+				"project.js",
+				"src/app/routes/scripts/projects/project.js"
+			],
+			[
+				"routes/",
+				"src/app/routes/scripts/ad-hoc/index.js"
+			],
+			[
+				"sides.js",
+				"src/app/routes/scripts/projects/project/sides.js"
+			],
+			[
+				"sidesli",
+				"src/app/components/sides-list.js"
+			],
+			[
+				"cust",
+				"src/app/initializers/custom-inflector-rules.js"
+			],
+			[
+				"script",
+				"src/tests/acceptance/script-test.js"
+			],
+			[
+				"api",
+				"src/vendor/api.js"
+			],
+			[
+				"001",
+				"docs/architecture-decision-records/001-ember-cli-mirage.md"
+			],
+			[
+				"con",
+				"src/mirage/config.js"
+			],
+			[
+				"molas",
+				"src/app/models/molasses.js"
+			],
+			[
+				"p",
+				"src/package.json"
+			],
+			[
+				"sideslibh",
+				"src/app/templates/components/sides-list.hbs"
+			],
+			[
+				"eslin",
+				"src/.eslintignore"
+			],
+			[
+				"emberlc",
+				"src/ember-cli-build.js"
+			],
+			[
+				"curr",
+				"src/app/services/current-user.js"
+			],
+			[
+				"appli",
+				"src/app/adapters/application.js"
+			],
+			[
+				"uhtpr",
+				"src/tests/fixtures/uht-projects.js"
+			],
+			[
+				"adapt",
+				"src/app/adapters/application.js"
+			],
+			[
+				"scripte",
+				"src/tests/acceptance/script-test.js"
+			],
+			[
+				"sess",
+				"src/app/models/session.js"
+			],
+			[
+				"proejc",
+				"src/app/models/project.js"
+			],
+			[
+				"adapter",
+				"src/app/adapters/application.js"
+			],
+			[
+				"env",
+				"src/config/environment.js"
+			],
+			[
+				"session",
+				"src/tests/fixtures/sessions.js"
+			],
+			[
+				"scriptest",
+				"src/tests/acceptance/script-test.js"
+			],
+			[
+				"projec",
+				"src/app/models/project.js"
+			],
+			[
+				"routes",
+				"src/app/router.js"
+			],
+			[
+				"feature",
+				"src/app/services/features.js"
+			],
+			[
+				"sideshb",
+				"src/app/templates/scripts/projects/project/sides.hbs"
+			],
+			[
+				"pack",
+				"src/package.json"
+			],
+			[
+				"scirphb",
+				"src/app/templates/scripts/script.hbs"
+			],
+			[
+				"renmca",
+				"src/app/templates/components/rename-category-modal.hbs"
+			],
+			[
+				"renamchb",
+				"src/app/templates/components/rename-category-modal.hbs"
+			],
+			[
+				"showjs",
+				"src/app/controllers/scripts/script/show.js"
+			],
+			[
+				"adhosthb",
+				"src/app/templates/components/adhoc-settings.hbs"
+			],
+			[
+				"adhocsethb",
+				"src/app/templates/components/adhoc-settings.hbs"
+			],
+			[
+				"show.js",
+				"src/app/routes/scripts/script/show.js"
+			],
+			[
+				"scriptinhb",
+				"src/app/templates/components/script-information.hbs"
+			],
+			[
+				"edithb",
+				"src/app/templates/scripts/script/edit.hbs"
+			],
+			[
+				"showhb",
+				"src/app/templates/scripts/script/show.hbs"
+			],
+			[
+				"inde",
+				"src/app/index.html"
+			],
+			[
+				"metrics",
+				"src/app/metrics-adapters/gtag.js"
+			],
+			[
+				"const",
+				"src/app/constants.js"
+			],
+			[
+				"fixtures/sc",
+				"src/tests/fixtures/scripts.js"
+			],
+			[
+				"ream",
+				"src/README.md"
+			],
+			[
+				"shotformhb",
+				"src/app/templates/components/shot-form.hbs"
+			],
+			[
+				"addhsoh",
+				"src/app/templates/components/add-shot.hbs"
+			],
+			[
+				"sceneshohb",
+				"src/app/templates/components/scene-shots.hbs"
+			],
+			[
+				"shot.js",
+				"src/app/models/shot.js"
+			],
+			[
+				"sheete",
+				"src/app/services/sheet-export.js"
+			],
+			[
+				"epxortopt",
+				"src/app/controllers/scripts/script/show/export/choose-export-options.js"
+			],
+			[
+				"shots",
+				"src/app/templates/components/shots-tab.hbs"
+			],
+			[
+				"show",
+				"src/app/controllers/scripts/script/show.js"
+			],
+			[
+				"scelistite",
+				"src/app/templates/components/scene-list-item.hbs"
+			],
+			[
+				"hasst",
+				"src/app/helpers/has-stuff-in-this-scene.js"
+			],
+			[
+				"should",
+				"src/app/helpers/should-show-category.js"
+			],
+			[
+				"elemforhb",
+				"src/app/templates/components/element-form.hbs"
+			],
+			[
+				"scenecount",
+				"src/tests/integration/helpers/scene-count-test.js"
+			],
+			[
+				"scencou",
+				"src/app/helpers/scene-count.js"
+			],
+			[
+				"elemn",
+				"src/app/models/element.js"
+			],
+			[
+				"elemfor",
+				"src/app/components/element-form.js"
+			],
+			[
+				"catlisti",
+				"src/app/components/category-list-item.js"
+			],
+			[
+				"adapters/",
+				"src/app/adapters/application.js"
+			],
+			[
+				"listitemhb",
+				"src/app/templates/components/category-list-item.hbs"
+			],
+			[
+				"elemfortest",
+				"src/tests/integration/components/element-form-test.js"
+			],
+			[
+				"fixutre/s",
+				"src/tests/fixtures/scripts.js"
+			],
+			[
+				"show.j",
+				"src/app/controllers/scripts/script/show.js"
+			],
+			[
+				"apphb",
+				"src/app/templates/application.hbs"
+			],
+			[
+				"noti",
+				"src/app/services/notifications.js"
+			],
+			[
+				"scripthb",
+				"src/app/templates/scripts/script.hbs"
+			],
+			[
+				"fixsc",
+				"src/tests/fixtures/scripts.js"
+			],
+			[
+				"show.hb",
+				"src/app/templates/scripts/script/show.hbs"
+			],
+			[
+				"scrolsta",
+				"src/app/services/scroll-state-manager.js"
+			],
+			[
+				"eleme",
+				"src/app/models/element.js"
+			],
+			[
+				"sceeli",
+				"src/app/components/scene-list-item.js"
+			],
+			[
+				"elefor",
+				"src/app/components/element-form.js"
+			],
+			[
+				"eof",
+				"src/app/templates/components/element-form.hbs"
+			],
+			[
+				"show.",
+				"src/app/controllers/scripts/script/show.js"
+			],
+			[
+				"sce",
+				"src/app/models/scene.js"
+			],
+			[
+				"elme",
+				"src/app/models/element.js"
+			],
+			[
+				"fix",
+				"src/tests/fixtures/scripts.js"
+			],
+			[
+				"elem",
+				"src/app/models/element.js"
+			],
+			[
+				"tag",
+				"src/app/models/tag.js"
+			],
+			[
+				"categ",
+				"src/app/models/category.js"
+			],
+			[
+				"cate",
+				"src/app/models/category.js"
+			],
+			[
+				"listite",
+				"src/app/components/category-list-item.js"
+			],
+			[
+				"scelisthb",
+				"src/app/templates/components/scene-list-item.hbs"
+			],
+			[
+				"ele",
+				"src/app/models/element.js"
+			],
+			[
+				"app.js",
+				"src/app/app.js"
+			],
+			[
+				"elemscdi",
+				"src/app/templates/components/element-scene-display.hbs"
+			],
+			[
+				"catelisti",
+				"src/app/components/category-list-item.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 596.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "includ",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_reset_during_init": true
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

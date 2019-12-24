@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"binary_file_patterns":
+			[
+			],
+			"file_exclude_patterns":
+			[
+			],
+			"folder_exclude_patterns":
+			[
+			],
+			"name": "launchdock-back",
+			"path": "~/code/ldock/launchdock-back"
+		}
+	],
+ "solution_file": "/Users/tj/code/ldock/launchdock-back/api.sln"
+}

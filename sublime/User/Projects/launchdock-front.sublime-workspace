@@ -1,0 +1,1687 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"confirC",
+				"confirmationConfirm\tabc"
+			],
+			[
+				"accou",
+				"accountId\tabc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/tj/code/ldock/launchdock-front/app/components/credit-card.js",
+			"settings":
+			{
+				"buffer_size": 1225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/ldock/launchdock-front/tests/acceptance/renter/books-reservation-test.js",
+			"settings":
+			{
+				"buffer_size": 5112,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/reservations-test.js",
+			"settings":
+			{
+				"buffer_size": 6971,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/ldock/launchdock-front/app/templates/search.hbs",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/ldock/launchdock-front/app/templates/components/search-form.hbs",
+			"settings":
+			{
+				"buffer_size": 2363,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 228 files for \"searchTask\"\n\n/Users/tj/code/ldock/launchdock-front/app/components/search-form.js:\n   16    isReturnDateInvalid: and('isReturnDateMissing', 'inputsValidated'),\n   17  \n   18:   searchTask: task(function*() {\n   19      let { departureDate, returnDate } = this;\n   20  \n\n/Users/tj/code/ldock/launchdock-front/app/templates/components/search-form.hbs:\n    6  >\n    7    <form\n    8:     {{action (perform searchTask departureDate returnDate) on=\"submit\"}}\n    9      class=\"flex flex-col\"\n   10    >\n\n2 matches across 2 files\n\n\nSearching 228 files for \"submitSearch\"\n\n/Users/tj/code/ldock/launchdock-front/app/components/search-form.js:\n    7    departureDate: null,\n    8    returnDate: null,\n    9:   submitSearch: null,\n   10  \n   11    inputsValidated: false,\n   ..\n   20  \n   21      if (departureDate && returnDate) {\n   22:       yield this.submitSearch.perform(departureDate, returnDate);\n   23      } else {\n   24        set(this, 'inputsValidated', true);\n\n/Users/tj/code/ldock/launchdock-front/app/controllers/availability.js:\n   23    startDate: null,\n   24  \n   25:   submitSearch: task(function*() {\n   26      let { startDate, endDate } = this;\n   27  \n   ..\n   49      dateAdjusted(date) {\n   50        set(this, this._whichDate, moment(date));\n   51:       this.submitSearch.perform();\n   52      }\n   53    }\n\n/Users/tj/code/ldock/launchdock-front/app/controllers/search.js:\n    4  \n    5  export default Controller.extend({\n    6:   submitSearch: task(function*(departureDate, returnDate) {\n    7      return yield this.transitionToRoute('availability', {\n    8        queryParams: {\n\n/Users/tj/code/ldock/launchdock-front/app/templates/search.hbs:\n   11    </h2>\n   12  \n   13:   {{search-form submitSearch=submitSearch}}\n   14  \n   15  </div>\n\n/Users/tj/code/ldock/launchdock-front/tests/integration/components/mobile-date-range-picker-test.js:\n   10  \n   11    test('shows next 12 months', async function(assert) {\n   12:     this.set('submitSearch', () => {});\n   13:     await render(hbs`{{mobile-date-range-picker submitSearch=submitSearch}}`);\n   14      assert.dom('.ember-power-calendar-nav-title').exists({ count: 12 });\n   15      // todo: check each month\n   ..\n   17  \n   18    test('select same day for departure and return', async function(assert) {\n   19:     this.set('submitSearch', () => {});\n   20  \n   21:     await render(hbs`{{mobile-date-range-picker submitSearch=submitSearch}}`);\n   22  \n   23      assert.dom('.test-depart-date').hasText('Depart');\n   ..\n   34  \n   35    test('selections reset if you try picking new dates', async function(assert) {\n   36:     this.set('submitSearch', () => {});\n   37  \n   38:     await render(hbs`{{mobile-date-range-picker submitSearch=submitSearch}}`);\n   39      await component.pickDateRange(moment(), moment());\n   40  \n\n/Users/tj/code/ldock/launchdock-front/tests/integration/components/search-form-test.js:\n   15      let tomorrow = moment().add(1, 'days');\n   16  \n   17:     this.set('submitSearch', () => {});\n   18  \n   19      await component.render();\n   ..\n   25  \n   26    test('it performs search task if dates are selected', async function(assert) {\n   27:     this.set('submitSearch', {\n   28        perform: () => {\n   29          assert.ok(true, 'search task wired up');\n   ..\n   39      assert.expect(4);\n   40  \n   41:     this.set('submitSearch', () => {\n   42        // This assertion does not execute because input validation fails\n   43        assert.ok(true, 'search submitted');\n   ..\n  130      await render(hbs`\n  131        <div id=\"fixed-position-elements\">\n  132:         {{search-form submitSearch=submitSearch}}\n  133        </div>\n  134      `);\n\n21 matches across 6 files\n",
+			"settings":
+			{
+				"buffer_size": 3714,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/tj/code/ldock/launchdock-front/app/controllers/search.js",
+			"settings":
+			{
+				"buffer_size": 427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/ldock/launchdock-front/app/controllers/availability.js",
+			"settings":
+			{
+				"buffer_size": 1280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/ldock/launchdock-front/app/components/search-form.js",
+			"settings":
+			{
+				"buffer_size": 968,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"hbs",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"hist",
+				"Sublime Merge: File History"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"form",
+				"JsPrettier: Format Code"
+			],
+			[
+				"bla",
+				"Sublime Merge: Blame File"
+			],
+			[
+				"jspret",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remopac",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pretti",
+				"JsPrettier: Format Code"
+			],
+			[
+				"jsprett",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"jsp",
+				"JsPrettier: Format Code"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"css\t",
+				"Set Syntax: CSS"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tj/code/ldock/launchdock-front",
+		"/Users/tj/code/ldock/launchdock-front/mirage",
+		"/Users/tj/code/ldock/launchdock-front/tests",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/renter",
+		"/Users/tj/code/ldock/launchdock-front/tests/helpers"
+	],
+	"file_history":
+	[
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/renter/books-reservation-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/components/new-reservation-container.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/confirmable-reservation/actions.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/reservation.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/components/reservation-container.js",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/new-reservation.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/reservations-test.js",
+		"/Users/tj/code/ldock/launchdock-front/config/optional-features.json",
+		"/Users/tj/code/ldock/launchdock-front/package.json",
+		"/Users/tj/code/ldock/launchdock-front/.ember-cli",
+		"/Users/tj/code/ldock/launchdock-front/app/controllers/reservation.js",
+		"/Users/tj/code/ldock/launchdock-front/app/services/current-user.js",
+		"/Users/tj/code/ldock/launchdock-front/yarn.lock",
+		"/Users/tj/code/ldock/launchdock-front/app/utils/current-user-setup.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/cancellable-reservation/message.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/confirmable-reservation/message.hbs",
+		"/Users/tj/code/ldock/launchdock-front/.eslintrc.js",
+		"/Users/tj/code/ldock/launchdock-front/.babelrc",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/cancellable-reservation/actions.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/confirmable-reservation.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/cancellable-reservation.hbs",
+		"/Users/tj/code/ldock/launchdock-front/mirage/config.js",
+		"/Users/tj/code/ldock/launchdock-front/app/helpers/or.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/new-reservation.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/models/reservation-cancellation.js",
+		"/Users/tj/code/ldock/launchdock-front/app/models/reservation-confirmation.js",
+		"/Users/tj/code/ldock/launchdock-front/app/models/reservation.js",
+		"/Users/tj/code/ldock/launchdock-front/app/components/cancellable-reservation.js",
+		"/Users/tj/code/ldock/launchdock-front/app/styles/app.scss",
+		"/Users/tj/code/ldock/launchdock-front/app/router.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/manages-reservation-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/auth-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/edit-reservation.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/reservation-details-editor.hbs",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/types-of-available-boats-selector-test.js",
+		"/Users/tj/code/ldock/launchdock-front/ember-cli-build.js",
+		"/Users/tj/code/ldock/launchdock-front/app/styles/app.css",
+		"/Users/tj/code/ldock/launchdock-front/app/tailwind/config.js",
+		"/Users/tj/code/ldock/launchdock-front/app/styles/components.css",
+		"/Users/tj/code/ldock/launchdock-front/app/styles/utilities.css",
+		"/Users/tj/code/ldock/launchdock-front/app/x-tailwind/components/calendar.css",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/types-of-available-boats-selector.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/components/types-of-available-boats-selector.js",
+		"/Users/tj/code/ldock/launchdock-front/app/helpers/fits-up-to.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/inventory-list-item-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/new-boat-form-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/reservation-details-editor-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/reservation-list-item-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/unit/models/boat-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/unit/models/reservation-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/cost-breakdown-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/components/reservation-details-editor.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/boat-availability-selector-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/available-boat-listing-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/inventory-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/helpers/blah.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/reservation-list-item.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/helpers/dollar-amount.js",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/availability.js",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/stripe-callback.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/renter/search-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/controllers/availability.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/search-form-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/month-after-month-calendar.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/mobile-date-range-picker.hbs",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/mobile-date-range-picker-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/components/search-form.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/ui-input.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/components/credit-card.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/credit-card.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/search-form.hbs",
+		"/Users/tj/code/ldock/launchdock-front/tests/helpers/select-choose.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/helpers/datepicker-select.js",
+		"/Users/tj/code/ldock/launchdock-front/app/components/ui-input.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/new-boat-form-markup.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/index.html",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/credit-card-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/credit-card-expiry.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/components/credit-card-expiry.js",
+		"/Users/tj/code/ldock/launchdock-front/mirage/handled-request.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/new-boat-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/views-boat-details-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/new-boat.js",
+		"/Users/tj/code/ldock/launchdock-front/config/environment.js",
+		"/Users/tj/code/ldock/launchdock-front/app/models/reservation-departure-date-change.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/application.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/search.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/models/reservation-return-date-change.js",
+		"/Users/tj/code/ldock/launchdock-front/mirage/factories/reservation.js",
+		"/Users/tj/code/ldock/launchdock-front/app/tailwind/components/buttons.css",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/reservation.js",
+		"/Users/tj/code/ldock/launchdock-front/app/tailwind/config/margin.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/mobile-date-picker.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/tailwind/config/z-index.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/background-tilt.hbs",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Packages/User/ectask.sublime-snippet",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/edit-reservation.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/index.hbs",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/views-new-reservations-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/application.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/unit/utils/current-user-setup-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/boat-container-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/settings-test.js",
+		"/Users/tj/code/ldock/launchdock-front/mirage/serializers/application.js",
+		"/Users/tj/code/ldock/launchdock-front/app/models/renter-contact-info-change.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/reservation-container.hbs",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/reservation-container-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/new-location-form-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/helpers/all-accounted-for.js",
+		"/Users/tj/code/ldock/launchdock-front/app/components/dashboard-container.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/schedules-boat-downtime-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/dashboard.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/dashboard.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/ui-input-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/components/welcome-banner.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/integration/components/welcome-banner-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/templates/components/welcome-banner-markup.hbs",
+		"/Users/tj/code/ldock/launchdock-front/app/controllers/settings.js",
+		"/Users/tj/code/ldock/launchdock-front/app/models/renter.js",
+		"/Users/tj/code/ldock/launchdock-front/app/adapters/application.js",
+		"/Users/tj/code/ldock/launchdock-front/app/models/stripe-connection.js",
+		"/Users/tj/code/ldock/launchdock-front/app/models/company.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/unit/services/current-user-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/models/user.js",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/login.js",
+		"/Users/tj/code/ldock/launchdock-front/app/components/new-boat-form.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/dashboard-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/unit/routes/application-test.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			"",
+			"tests/",
+			"",
+			"app/",
+			"",
+			"tests/",
+			"",
+			"*.hbs",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"submitSearch",
+			"searchTask",
+			"prevent",
+			"bookNow",
+			"createRecord('ren",
+			"Actions",
+			"next",
+			"confirmationConfirm",
+			"ConfirmationConfirm",
+			"cancelConfirm",
+			"confirmationConfirm",
+			"cancellable",
+			"ConfirmationActions",
+			"ReservationConfirmation",
+			"restartable",
+			"task",
+			"tracked",
+			"false",
+			"task",
+			":",
+			"set",
+			"action",
+			"set",
+			"action",
+			"qwer",
+			"cancel",
+			"isConfirming",
+			"{{or",
+			"(or",
+			"cancellation",
+			"cancel",
+			"test-cancel-reservation",
+			"power-sele",
+			"powerselec",
+			"PowerDatepick",
+			"power-date",
+			"datepicker",
+			"page",
+			"types-of",
+			"edit-reser",
+			"= run((",
+			"run(()",
+			"await run",
+			"dollarAmount",
+			"beforeModel",
+			"{{calendar",
+			"calendarCe",
+			"elementId",
+			"types-of-av",
+			"assignNewbo",
+			"typeInSearch",
+			"selectChoo",
+			"task",
+			"power-date",
+			"{{",
+			"dp",
+			"test-reservation-details-edit-departure",
+			"datepickerSelect",
+			"{{/",
+			"{{#",
+			"PowerDatepick",
+			"PowerDatepicker",
+			"power-datepicker",
+			"details-editor",
+			"editor",
+			"ember-concurre",
+			"power-sel",
+			"componentId",
+			"with-creat",
+			"ember-source",
+			"ember-concu",
+			"concurre",
+			"favico",
+			"power-sel",
+			"focusOut",
+			"validateCardNumber",
+			"validateCCNumber",
+			"blur",
+			"$(",
+			"jquery",
+			"$.",
+			"$",
+			"h-full",
+			"template-li",
+			"qwer",
+			"if",
+			"server",
+			"schema.reser",
+			".reload",
+			"boolean",
+			"reservation-container",
+			"changeDepar",
+			"<ReservationCon",
+			"<ReservationCOn",
+			"{{reservation-con",
+			"qwer",
+			"Deletion",
+			"delete",
+			"isDeletingReservation",
+			"Delete",
+			"delete",
+			"deleted",
+			"delete",
+			"h3",
+			"500",
+			"primary",
+			"btn",
+			"hover:",
+			"<button",
+			"task }",
+			"{{",
+			"reservation",
+			"qwer",
+			"reservation-container",
+			"#let",
+			"let ",
+			"hasDepar",
+			"saveReservation",
+			"');",
+			"reservations",
+			"import",
+			"hash ",
+			"hasDeparted",
+			"lengthInDays",
+			"isToday",
+			"isStillOut",
+			"phone-num",
+			"downtim"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"= await run((",
+			"async function(assert) ",
+			"\"",
+			"'",
+			"primary-darkest"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/tj/code/ldock/launchdock-front/app/components/credit-card.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								670,
+								670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 15
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/tj/code/ldock/launchdock-front/tests/acceptance/renter/books-reservation-test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								944,
+								944
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/reservations-test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4547,
+								4547
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 9
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 158.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/tj/code/ldock/launchdock-front/app/templates/search.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/tj/code/ldock/launchdock-front/app/templates/components/search-form.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3714,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										201,
+										211
+									],
+									[
+										427,
+										437
+									],
+									[
+										725,
+										737
+									],
+									[
+										870,
+										882
+									],
+									[
+										1103,
+										1115
+									],
+									[
+										1301,
+										1313
+									],
+									[
+										1474,
+										1486
+									],
+									[
+										1736,
+										1748
+									],
+									[
+										1749,
+										1761
+									],
+									[
+										1980,
+										1992
+									],
+									[
+										2061,
+										2073
+									],
+									[
+										2074,
+										2086
+									],
+									[
+										2327,
+										2339
+									],
+									[
+										2416,
+										2428
+									],
+									[
+										2429,
+										2441
+									],
+									[
+										2640,
+										2652
+									],
+									[
+										2729,
+										2741
+									],
+									[
+										2742,
+										2754
+									],
+									[
+										2999,
+										3011
+									],
+									[
+										3193,
+										3205
+									],
+									[
+										3360,
+										3372
+									],
+									[
+										3624,
+										3636
+									],
+									[
+										3637,
+										3649
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								1474,
+								1486
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/BetterFindBuffer/FindResults.hidden-tmTheme",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_visual",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 20
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/tj/code/ldock/launchdock-front/app/controllers/search.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/tj/code/ldock/launchdock-front/app/controllers/availability.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								473,
+								473
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 41.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/tj/code/ldock/launchdock-front/app/components/search-form.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								540,
+								540
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "launchdock-front.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"searhcfor",
+				"app/templates/components/search-form.hbs"
+			],
+			[
+				"search",
+				"app/templates/search.hbs"
+			],
+			[
+				"credi",
+				"app/components/credit-card.js"
+			],
+			[
+				"newreser",
+				"app/components/new-reservation-container.js"
+			],
+			[
+				"actions",
+				"app/templates/components/confirmable-reservation/actions.hbs"
+			],
+			[
+				"reserhb",
+				"app/templates/reservation.hbs"
+			],
+			[
+				"opt",
+				"config/optional-features.json"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"loc",
+				"yarn.lock"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"cu",
+				"app/services/current-user.js"
+			],
+			[
+				"curren",
+				"app/utils/current-user-setup.js"
+			],
+			[
+				"embe",
+				".ember-cli"
+			],
+			[
+				"mes",
+				"app/templates/components/cancellable-reservation/message.hbs"
+			],
+			[
+				"esl",
+				".eslintrc.js"
+			],
+			[
+				"esli",
+				".eslintrc.js"
+			],
+			[
+				"reserj",
+				"app/controllers/reservation.js"
+			],
+			[
+				"action",
+				"app/templates/components/confirmable-reservation/actions.hbs"
+			],
+			[
+				"resrej",
+				"app/controllers/reservation.js"
+			],
+			[
+				"actionhb",
+				"app/templates/components/confirmable-reservation/actions.hbs"
+			],
+			[
+				"messh",
+				"app/templates/components/confirmable-reservation/message.hbs"
+			],
+			[
+				"confi",
+				"app/templates/components/confirmable-reservation.hbs"
+			],
+			[
+				"messagehb",
+				"app/templates/components/cancellable-reservation/message.hbs"
+			],
+			[
+				"res",
+				"app/controllers/reservation.js"
+			],
+			[
+				"actionshb",
+				"app/templates/components/cancellable-reservation/actions.hbs"
+			],
+			[
+				"confres",
+				"app/templates/components/confirmable-reservation.hbs"
+			],
+			[
+				"cance",
+				"app/templates/components/cancellable-reservation.hbs"
+			],
+			[
+				"confirab",
+				"app/templates/components/confirmable-reservation.hbs"
+			],
+			[
+				"or",
+				"app/helpers/or.js"
+			],
+			[
+				"canceabl",
+				"app/templates/components/cancellable-reservation.hbs"
+			],
+			[
+				"resecan",
+				"app/models/reservation-cancellation.js"
+			],
+			[
+				"reser",
+				"app/models/reservation.js"
+			],
+			[
+				"conf",
+				"mirage/config.js"
+			],
+			[
+				"resejs",
+				"app/controllers/reservation.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"can",
+				"app/templates/components/cancellable-reservation.hbs"
+			],
+			[
+				"appscs",
+				"app/styles/app.scss"
+			],
+			[
+				"rout",
+				"app/router.js"
+			],
+			[
+				"view",
+				"tests/acceptance/rental-manager/views-new-reservations-test.js"
+			],
+			[
+				"aut",
+				"tests/acceptance/rental-manager/auth-test.js"
+			],
+			[
+				"resde",
+				"app/templates/components/reservation-details-editor.hbs"
+			],
+			[
+				"resdeth",
+				"app/templates/components/reservation-details-editor.hbs"
+			],
+			[
+				"edit",
+				"app/templates/edit-reservation.hbs"
+			],
+			[
+				"rotuer",
+				"app/router.js"
+			],
+			[
+				"bui",
+				"ember-cli-build.js"
+			],
+			[
+				"con",
+				"app/tailwind/config.js"
+			],
+			[
+				"ap",
+				"app/styles/app.scss"
+			],
+			[
+				"scss",
+				"app/styles/app.scss"
+			],
+			[
+				"yarl",
+				"yarn.lock"
+			],
+			[
+				"router",
+				"app/router.js"
+			],
+			[
+				"hist",
+				"app/helpers/fits-up-to.js"
+			],
+			[
+				"typesel",
+				"app/components/types-of-available-boats-selector.js"
+			],
+			[
+				"type",
+				"app/templates/components/types-of-available-boats-selector.hbs"
+			],
+			[
+				"resdet",
+				"app/components/reservation-details-editor.js"
+			],
+			[
+				"resedethb",
+				"app/templates/components/reservation-details-editor.hbs"
+			],
+			[
+				"resedet",
+				"tests/integration/components/reservation-details-editor-test.js"
+			],
+			[
+				"typete",
+				"tests/integration/components/types-of-available-boats-selector-test.js"
+			],
+			[
+				"blah",
+				"app/helpers/blah.js"
+			],
+			[
+				"dollar",
+				"app/helpers/dollar-amount.js"
+			],
+			[
+				"reslistithb",
+				"app/templates/components/reservation-list-item.hbs"
+			],
+			[
+				"reserlistite",
+				"tests/integration/components/reservation-list-item-test.js"
+			],
+			[
+				"avail",
+				"app/routes/availability.js"
+			],
+			[
+				"avai",
+				"app/controllers/availability.js"
+			],
+			[
+				"serachtest",
+				"tests/acceptance/renter/search-test.js"
+			],
+			[
+				"reserlistitet",
+				"tests/integration/components/reservation-list-item-test.js"
+			],
+			[
+				"searformte",
+				"tests/integration/components/search-form-test.js"
+			],
+			[
+				"pc",
+				"package.json"
+			],
+			[
+				"monthafm",
+				"app/templates/components/month-after-month-calendar.hbs"
+			],
+			[
+				"mobdatranpi",
+				"app/templates/components/mobile-date-range-picker.hbs"
+			],
+			[
+				"mobildaterangpicte",
+				"tests/integration/components/mobile-date-range-picker-test.js"
+			],
+			[
+				"mobildatran",
+				"app/templates/components/mobile-date-range-picker.hbs"
+			],
+			[
+				"searchfo",
+				"app/components/search-form.js"
+			],
+			[
+				"seasrchfor",
+				"tests/integration/components/search-form-test.js"
+			],
+			[
+				"ui",
+				"app/templates/components/ui-input.hbs"
+			],
+			[
+				"types",
+				"app/components/types-of-available-boats-selector.js"
+			],
+			[
+				"typh",
+				"app/templates/components/types-of-available-boats-selector.hbs"
+			],
+			[
+				"resedette",
+				"tests/integration/components/reservation-details-editor-test.js"
+			],
+			[
+				"invetes",
+				"tests/acceptance/rental-manager/inventory-test.js"
+			],
+			[
+				"select",
+				"tests/helpers/select-choose.js"
+			],
+			[
+				"searfor",
+				"app/templates/components/search-form.hbs"
+			],
+			[
+				"managre",
+				"tests/acceptance/rental-manager/manages-reservation-test.js"
+			],
+			[
+				"selec",
+				"tests/helpers/select-choose.js"
+			],
+			[
+				"manare",
+				"tests/acceptance/rental-manager/manages-reservation-test.js"
+			],
+			[
+				"edit.js",
+				"app/components/reservation-details-editor.js"
+			],
+			[
+				"editortest",
+				"tests/integration/components/reservation-details-editor-test.js"
+			],
+			[
+				"da",
+				"tests/helpers/datepicker-select.js"
+			],
+			[
+				"datepi",
+				"tests/helpers/datepicker-select.js"
+			],
+			[
+				"resecon",
+				"app/components/reservation-container.js"
+			],
+			[
+				"edihb",
+				"app/templates/components/reservation-details-editor.hbs"
+			],
+			[
+				"reserdetailte",
+				"tests/integration/components/reservation-details-editor-test.js"
+			],
+			[
+				"inht",
+				"app/index.html"
+			],
+			[
+				"ya",
+				"yarn.lock"
+			],
+			[
+				"expi",
+				"app/components/credit-card-expiry.js"
+			],
+			[
+				"credexh",
+				"app/templates/components/credit-card-expiry.hbs"
+			],
+			[
+				"credexhb",
+				"app/templates/components/credit-card-expiry.hbs"
+			],
+			[
+				"uii",
+				"app/components/ui-input.js"
+			],
+			[
+				"uihb",
+				"app/templates/components/ui-input.hbs"
+			],
+			[
+				"credchb",
+				"app/templates/components/credit-card.hbs"
+			],
+			[
+				"credc",
+				"app/components/credit-card.js"
+			],
+			[
+				"credcardte",
+				"tests/integration/components/credit-card-test.js"
+			],
+			[
+				"credcard",
+				"app/components/credit-card-expiry.js"
+			],
+			[
+				"cre",
+				"app/components/credit-card.js"
+			],
+			[
+				"newb",
+				"app/routes/new-boat.js"
+			],
+			[
+				"chan",
+				"app/models/reservation-departure-date-change.js"
+			],
+			[
+				"env",
+				"config/environment.js"
+			],
+			[
+				"searchb",
+				"app/templates/search.hbs"
+			],
+			[
+				"apphb",
+				"app/templates/application.hbs"
+			],
+			[
+				"detailsedhb",
+				"app/templates/components/reservation-details-editor.hbs"
+			],
+			[
+				"editres",
+				"app/templates/edit-reservation.hbs"
+			],
+			[
+				"reserh",
+				"app/templates/reservation.hbs"
+			],
+			[
+				"rserdtehb",
+				"app/templates/components/reservation-details-editor.hbs"
+			],
+			[
+				"ediths",
+				"app/templates/edit-reservation.hbs"
+			],
+			[
+				"manag",
+				"tests/acceptance/rental-manager/manages-reservation-test.js"
+			],
+			[
+				"reserca",
+				"app/models/reservation-cancellation.js"
+			],
+			[
+				"eidtotest",
+				"tests/integration/components/reservation-details-editor-test.js"
+			],
+			[
+				"reslistte",
+				"tests/integration/components/reservation-list-item-test.js"
+			],
+			[
+				"lsititeh",
+				"app/templates/components/reservation-list-item.hbs"
+			],
+			[
+				"editotes",
+				"tests/integration/components/reservation-details-editor-test.js"
+			],
+			[
+				"reserlisti",
+				"tests/integration/components/reservation-list-item-test.js"
+			],
+			[
+				"lock",
+				"yarn.lock"
+			],
+			[
+				"reserdetai",
+				"app/components/reservation-details-editor.js"
+			],
+			[
+				"reserdetile",
+				"app/templates/components/reservation-details-editor.hbs"
+			],
+			[
+				"rsercon",
+				"app/components/reservation-container.js"
+			],
+			[
+				"resr",
+				"app/models/reservation.js"
+			],
+			[
+				"marg",
+				"app/tailwind/config/margin.js"
+			],
+			[
+				"butt",
+				"app/tailwind/components/buttons.css"
+			],
+			[
+				"app",
+				"app/styles/app.scss"
+			],
+			[
+				"mo ",
+				"app/templates/components/mobile-date-picker.hbs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "submitSearch",
+		"_vintageous_last_buffer_search_command": "vi_star",
+		"_vintageous_last_char_search": "\"",
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_reset_during_init": true
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

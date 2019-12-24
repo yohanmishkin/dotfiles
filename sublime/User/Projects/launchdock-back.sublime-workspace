@@ -1,0 +1,1310 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rser",
+				"reservation\t(BookReservation.cs)"
+			],
+			[
+				"auth0",
+				"auth0UserId\t(UsersTests.cs)"
+			],
+			[
+				"strip",
+				"stripe-account-id\tabc"
+			],
+			[
+				"stripaccId",
+				"stripeAccountId\tabc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/tj/code/ldock/launchdock-back/src/LaunchDock/LaunchDock.csproj",
+			"settings":
+			{
+				"buffer_size": 2019,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Startup.cs",
+			"settings":
+			{
+				"buffer_size": 2254,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/ldock/launchdock-back/azure-pipelines.yml",
+			"settings":
+			{
+				"buffer_size": 1378,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"for",
+				"JsPrettier: Format Code"
+			],
+			[
+				"rest",
+				"OmniSharpSublime: Restart Server"
+			],
+			[
+				"res",
+				"OmniSharpSublime: Restart Server"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rel",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"reser",
+				"OmniSharpSublime: Restart Server"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"his",
+				"Sublime Merge: File History"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"restart",
+				"OmniSharpSublime: Restart Server"
+			],
+			[
+				"relo",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"omnisharp",
+				"OmniSharpSublime: Select Server Version"
+			],
+			[
+				"open rep",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"reload",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"restar",
+				"OmniSharpSublime: Restart Server"
+			],
+			[
+				"omnisharpsublime:",
+				"OmniSharpSublime: Select Server Version"
+			],
+			[
+				"new p",
+				"Project Manager: Add New Project"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"jspret",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remopac",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pretti",
+				"JsPrettier: Format Code"
+			],
+			[
+				"jsprett",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"jsp",
+				"JsPrettier: Format Code"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"css\t",
+				"Set Syntax: CSS"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 493.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tj/code/ldock/launchdock-back",
+		"/Users/tj/code/ldock/launchdock-back/src",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Reservations"
+	],
+	"file_history":
+	[
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Reservations/ChangeBoatTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Reservations/GetAllTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Renters/CreateTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Database/EfReservationRepositoryTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Database/Schemas/BoatSchema.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Requests/BoatsTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Database/EfBoatRepositoryTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Database/EfBoatRepository.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Database/Schemas/ReservationSchema.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Controllers/CompaniesController.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Support/Factories.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Controllers/BoatsController.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Boats/GetAvailableTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Boats/IBoatRepository.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Reservations/IReservationRepository.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Database/EfReservationRepository.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Boats/GetAvailable.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Boats/GetAllTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Controllers/UsersController.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/External/StripeGatewayTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Boats/Get.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Domain/Reservations/ReservationTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/External/StripeGateway.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Payment/ChargeCreditCard.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Payment/ChargeCreditCardTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Serializers/ResourceObject.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Controllers/PaymentController.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Requests/PaymentTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Serialization/ResourceObjectTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Reservations/BookReservation.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Controllers/ReservationsController.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Requests/CompaniesTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Companies/Create.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Serialization/Support/Movie.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Database/Schemas/CompanySchema.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Companies/CreateTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Companies/Company.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Database/EfCompanyRepositoryTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Database/EfCompanyRepository.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Payment/ConnectStripe.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Payment/ConnectStripeTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Companies/ICompanyRepository.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Payment/StripeConnection.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Payment/IPaymentGateway.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Reservations/BookReservationTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Users/IUserRepository.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Database/EfRenterRepository.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Companies/ConnectStripeTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Deserializers/StripeConnectionAttrs.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Deserializers/ReservationAttrs.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Deserializers/JsonApiDocument.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Boats/Boat.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Database/Migrations/20190425041604_AddBoatTypeToBoats.Designer.cs",
+		"/Users/tj/code/ldock/launchdock-back/README.md",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Database/EfRenterRepositoryTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Reservations/Reservation.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/ReservationBooked.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Requests/ReservationsTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Boats/CreateTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Requests/qwer.js",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Deserializers/BoatAttrs.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Boats/Create.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Configuration/RegistrationTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Users/SetUpCompanyTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Requests/UsersTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Users/SetUpCompany.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Registration.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Payment/Charge.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Reservations/IPaymentGateway.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Reservations/Charge.cs",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Packages/User/Projects/launchdock-back.sublime-project",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Database/EfUserRepositoryTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Database/EfUserRepository.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Users/Update.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Companies/ConnectStripe.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Database/Schemas/UserSchema.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Users/UpdateTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Reservations/ChangeBoat.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Serializers/JsonApiSerializer.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Renters/CreateHandlerTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Reservations/ChangeBoatHandlerTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Users/User.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Deserializers/UserAttrs.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Controllers/RentersController.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Requests/Support/RequestTest.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Users/GetByAuth0Id.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Reservations/Create.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Database/Migrations/20190906044539_AddCompanyToUsers.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Serialization/JsonApiSerializerTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Users/GetByAuth0IdTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Users/Create.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Serialization/JsonApiDocumentTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Users/CreateTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Deserializers/CompanyAttrs.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/LaunchDock.csproj",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Database/LaunchDockContext.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Companies/GetTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Companies/GetByUser.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Requests/RenterTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Companies/GetByUserTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Companies/Get.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Reservations/GetTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Domain/Companies/CompanyTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Startup.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Companies/UpdateHandlerTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Application/Companies/Update.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Deserializers/CompanyUpdateAttrs.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Companies/StripeConnection.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/External/Cassettes/stripe-token.json",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/External/Cassettes/stripe-charge.json",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDockTests/Application/Reservations/CreateHandlerTests.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Web/Deserializers/BoatChangeAttrs.cs",
+		"/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Domain/Companies/StripeAccount.cs",
+		"/Users/tj/code/ldock/launchdock-front/tests/unit/routes/application-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/auth-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/side-menu-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/settings-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/dashboard-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/router.js",
+		"/Users/tj/code/ldock/launchdock-front/mirage/config.js",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/application.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/views-boat-details-test.js",
+		"/Users/tj/code/ldock/launchdock-front/tests/acceptance/rental-manager/inventory-test.js",
+		"/Users/tj/code/ldock/launchdock-front/app/services/current-user.js",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/settings.js",
+		"/Users/tj/code/ldock/launchdock-front/app/components/credit-card.js",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/login.js",
+		"/Users/tj/code/ldock/launchdock-front/app/routes/stripe-callback.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"",
+			"src/LaunchDock/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"handler",
+			"Expression",
+			"\n            ",
+			"Func",
+			"reservation",
+			"Reservation",
+			"List<",
+			"DateTime",
+			"departureDate",
+			"DepartureDate",
+			"Boats",
+			"boats",
+			"GetAvail",
+			"boatC",
+			"Arg.A",
+			"start",
+			".Quer",
+			"hey2",
+			"out",
+			"TryParse",
+			"DateTime",
+			".Query(",
+			".Query(Ar",
+			".Query(",
+			".Query<",
+			"factories.reservations",
+			"reservations.create",
+			", ",
+			"qwer",
+			"CompanyAttrs",
+			"savedReservation",
+			"BoatSchema(",
+			"BoatSchema",
+			"y",
+			"x",
+			"post",
+			"record",
+			"boatA",
+			"BoatType",
+			"savedBoat",
+			"boat",
+			"new Company",
+			"copm",
+			"boatA",
+			"id",
+			"daily",
+			"capacity",
+			"horsepower",
+			"length",
+			"boatA",
+			"name",
+			"attributes",
+			"BoatId",
+			"@\"",
+			"\"",
+			"\\\"",
+			"mockBoatRepository",
+			"Boats.Create(",
+			", ",
+			"Factories.Compa",
+			"Update",
+			"update",
+			"Update.",
+			"ICompanyRe",
+			"charge",
+			"StripeConnection",
+			"CompaniesController",
+			"notification",
+			"INotificationHandler",
+			"set",
+			"Create",
+			"Create(",
+			"ReservationBooked",
+			"paymentGateway",
+			"IPaymentGateway",
+			"Task",
+			"default",
+			"Task",
+			"mockReservationRepository",
+			"mockRenterRepository",
+			"mockBoatRepository",
+			"fakeMediatr",
+			"acct",
+			"\"",
+			"relationships",
+			"Id",
+			"auth0",
+			"update_user_in_database",
+			"repository",
+			"BoatId",
+			"updateReservation",
+			"Reservation",
+			"reservation",
+			"savedReservation",
+			"users",
+			"companyRepository",
+			"mockReservationRepository",
+			"companyUpdateAttrs",
+			"ICompanyRepository",
+			"StripeAccountId",
+			"CompanyId",
+			"companyId",
+			"CompanyId",
+			"companyId",
+			"CompanyId",
+			"StripeAccountId",
+			"stripeAccountId",
+			"CompanyId",
+			"companyId",
+			"CompanyId",
+			"companyId",
+			"CompanyId",
+			"companyId",
+			"Company",
+			"Companies",
+			"patch",
+			"record",
+			"BoatId",
+			"boat",
+			"Name",
+			"repository",
+			"stripe-acco",
+			"stripeacc",
+			"meta",
+			"include=",
+			"include:",
+			"auth0Id",
+			"Auth0Id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"StripeConnection"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/tj/code/ldock/launchdock-back/src/LaunchDock/LaunchDock.csproj",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"_nv_visual_sel_mode": "mode_visual",
+							"highlight_line": false,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/tj/code/ldock/launchdock-back/src/LaunchDock/Startup.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"_nv_visual_sel_mode": "mode_visual",
+							"highlight_line": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/tj/code/ldock/launchdock-back/azure-pipelines.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"_nv_visual_sel_mode": "mode_visual_line",
+							"highlight_line": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "launchdock-back.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"azu",
+				"azure-pipelines.yml"
+			],
+			[
+				"staru",
+				"src/LaunchDock/Startup.cs"
+			],
+			[
+				"cspr",
+				"src/LaunchDock/LaunchDock.csproj"
+			],
+			[
+				"hand",
+				"src/LaunchDockTests/Application/Reservations/GetAllHandlerTests.cs"
+			],
+			[
+				"handler",
+				"src/LaunchDockTests/Application/Renters/CreateHandlerTests.cs"
+			],
+			[
+				"resersch",
+				"src/LaunchDock/Database/Schemas/ReservationSchema.cs"
+			],
+			[
+				"boatsc",
+				"src/LaunchDock/Database/Schemas/BoatSchema.cs"
+			],
+			[
+				"rsersch",
+				"src/LaunchDock/Database/Schemas/ReservationSchema.cs"
+			],
+			[
+				"efb",
+				"src/LaunchDock/Database/EfBoatRepository.cs"
+			],
+			[
+				"efresr",
+				"src/LaunchDockTests/Database/EfReservationRepositoryTests.cs"
+			],
+			[
+				"i",
+				"src/LaunchDock/Domain/Boats/IBoatRepository.cs"
+			],
+			[
+				"irser",
+				"src/LaunchDock/Domain/Reservations/IReservationRepository.cs"
+			],
+			[
+				"fat",
+				"src/LaunchDockTests/Support/Factories.cs"
+			],
+			[
+				"efreser",
+				"src/LaunchDock/Database/EfReservationRepository.cs"
+			],
+			[
+				"efboat",
+				"src/LaunchDockTests/Database/EfBoatRepositoryTests.cs"
+			],
+			[
+				"getavailte",
+				"src/LaunchDockTests/Application/Boats/GetAvailableTests.cs"
+			],
+			[
+				"efbo",
+				"src/LaunchDock/Database/EfBoatRepository.cs"
+			],
+			[
+				"ibo",
+				"src/LaunchDock/Domain/Boats/IBoatRepository.cs"
+			],
+			[
+				"getalltest",
+				"src/LaunchDockTests/Application/Boats/GetAllTests.cs"
+			],
+			[
+				"boatstest",
+				"src/LaunchDockTests/Requests/BoatsTests.cs"
+			],
+			[
+				"fac",
+				"src/LaunchDockTests/Support/Factories.cs"
+			],
+			[
+				"fa",
+				"src/LaunchDockTests/Support/Factories.cs"
+			],
+			[
+				"boatscon",
+				"src/LaunchDock/Web/Controllers/BoatsController.cs"
+			],
+			[
+				"stirpg",
+				"src/LaunchDock/External/StripeGateway.cs"
+			],
+			[
+				"stripegate",
+				"src/LaunchDockTests/External/StripeGatewayTests.cs"
+			],
+			[
+				"creditc",
+				"src/LaunchDockTests/Application/Payment/ChargeCreditCardTests.cs"
+			],
+			[
+				"char",
+				"src/LaunchDock/Application/Payment/ChargeCreditCard.cs"
+			],
+			[
+				"resercon",
+				"src/LaunchDock/Web/Controllers/ReservationsController.cs"
+			],
+			[
+				"book",
+				"src/LaunchDock/Application/Reservations/BookReservation.cs"
+			],
+			[
+				"paycon",
+				"src/LaunchDock/Web/Controllers/PaymentController.cs"
+			],
+			[
+				"requests/pa",
+				"src/LaunchDockTests/Requests/PaymentTests.cs"
+			],
+			[
+				"payte",
+				"src/LaunchDockTests/Requests/PaymentTests.cs"
+			],
+			[
+				"resou",
+				"src/LaunchDock/Web/Serializers/ResourceObject.cs"
+			],
+			[
+				"mov",
+				"src/LaunchDockTests/Serialization/Support/Movie.cs"
+			],
+			[
+				"copmsch",
+				"src/LaunchDock/Database/Schemas/CompanySchema.cs"
+			],
+			[
+				"comp",
+				"src/LaunchDock/Domain/Companies/Company.cs"
+			],
+			[
+				"createtests",
+				"src/LaunchDockTests/Application/Companies/CreateTests.cs"
+			],
+			[
+				"crea",
+				"src/LaunchDock/Application/Companies/Create.cs"
+			],
+			[
+				"userc",
+				"src/LaunchDock/Web/Controllers/UsersController.cs"
+			],
+			[
+				"compan",
+				"src/LaunchDockTests/Requests/CompaniesTests.cs"
+			],
+			[
+				"copmcon",
+				"src/LaunchDock/Web/Controllers/CompaniesController.cs"
+			],
+			[
+				"com",
+				"src/LaunchDock/Domain/Companies/Company.cs"
+			],
+			[
+				"efcom",
+				"src/LaunchDockTests/Database/EfCompanyRepositoryTests.cs"
+			],
+			[
+				"iren",
+				"src/LaunchDock/Domain/Reservations/IReservationRepository.cs"
+			],
+			[
+				"icomp",
+				"src/LaunchDock/Domain/Companies/ICompanyRepository.cs"
+			],
+			[
+				"stirpc",
+				"src/LaunchDock/Domain/Payment/StripeConnection.cs"
+			],
+			[
+				"ipa",
+				"src/LaunchDock/Domain/Payment/IPaymentGateway.cs"
+			],
+			[
+				"fact",
+				"src/LaunchDockTests/Support/Factories.cs"
+			],
+			[
+				"srconn",
+				"src/LaunchDock/Domain/Payment/StripeConnection.cs"
+			],
+			[
+				"copm",
+				"src/LaunchDock/Domain/Companies/Company.cs"
+			],
+			[
+				"boo",
+				"src/LaunchDock/Application/Reservations/BookReservation.cs"
+			],
+			[
+				"opm",
+				"src/LaunchDock/Domain/Companies/Company.cs"
+			],
+			[
+				"stirpconn",
+				"src/LaunchDock/Domain/Payment/StripeConnection.cs"
+			],
+			[
+				"efren",
+				"src/LaunchDock/Database/EfRenterRepository.cs"
+			],
+			[
+				"iuser",
+				"src/LaunchDock/Domain/Users/IUserRepository.cs"
+			],
+			[
+				"icopm",
+				"src/LaunchDock/Domain/Companies/ICompanyRepository.cs"
+			],
+			[
+				"connec",
+				"src/LaunchDock/Application/Payment/ConnectStripe.cs"
+			],
+			[
+				"charc",
+				"src/LaunchDockTests/Application/Payment/ChargeCreditCardTests.cs"
+			],
+			[
+				"stripconnat",
+				"src/LaunchDock/Web/Deserializers/StripeConnectionAttrs.cs"
+			],
+			[
+				"con",
+				"src/LaunchDock/Application/Payment/ConnectStripe.cs"
+			],
+			[
+				"stripconn",
+				"src/LaunchDock/Web/Deserializers/StripeConnectionAttrs.cs"
+			],
+			[
+				"compcon",
+				"src/LaunchDock/Web/Controllers/CompaniesController.cs"
+			],
+			[
+				"conn",
+				"src/LaunchDock/Application/Payment/ConnectStripe.cs"
+			],
+			[
+				"json",
+				"src/LaunchDock/Web/Deserializers/JsonApiDocument.cs"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"migration",
+				"src/LaunchDock/Database/Migrations/20190425041604_AddBoatTypeToBoats.Designer.cs"
+			],
+			[
+				"resersc",
+				"src/LaunchDock/Database/Schemas/ReservationSchema.cs"
+			],
+			[
+				"efboa",
+				"src/LaunchDockTests/Database/EfBoatRepositoryTests.cs"
+			],
+			[
+				"boat",
+				"src/LaunchDock/Domain/Boats/Boat.cs"
+			],
+			[
+				"boats",
+				"src/LaunchDock/Database/Schemas/BoatSchema.cs"
+			],
+			[
+				"ib",
+				"src/LaunchDock/Domain/Boats/IBoatRepository.cs"
+			],
+			[
+				"copmasc",
+				"src/LaunchDock/Database/Schemas/CompanySchema.cs"
+			],
+			[
+				"resresch",
+				"src/LaunchDock/Database/Schemas/ReservationSchema.cs"
+			],
+			[
+				"boatsch",
+				"src/LaunchDock/Database/Schemas/BoatSchema.cs"
+			],
+			[
+				"efbote",
+				"src/LaunchDockTests/Database/EfBoatRepositoryTests.cs"
+			],
+			[
+				"efre",
+				"src/LaunchDockTests/Database/EfRenterRepositoryTests.cs"
+			],
+			[
+				"reser",
+				"src/LaunchDock/Domain/Reservations/Reservation.cs"
+			],
+			[
+				"bookres",
+				"src/LaunchDock/Application/Reservations/BookReservation.cs"
+			],
+			[
+				"reserboo",
+				"src/LaunchDock/Application/ReservationBooked.cs"
+			],
+			[
+				"creattest",
+				"src/LaunchDockTests/Application/Boats/CreateTests.cs"
+			],
+			[
+				"resertes",
+				"src/LaunchDockTests/Domain/Reservations/ReservationTests.cs"
+			],
+			[
+				"resertest",
+				"src/LaunchDockTests/Requests/ReservationsTests.cs"
+			],
+			[
+				"boatat",
+				"src/LaunchDock/Web/Deserializers/BoatAttrs.cs"
+			],
+			[
+				"efres",
+				"src/LaunchDock/Database/EfReservationRepository.cs"
+			],
+			[
+				"boatatt",
+				"src/LaunchDock/Web/Deserializers/BoatAttrs.cs"
+			],
+			[
+				"usercon",
+				"src/LaunchDock/Web/Controllers/UsersController.cs"
+			],
+			[
+				"conf",
+				"src/LaunchDockTests/Configuration/RegistrationTests.cs"
+			],
+			[
+				"copmco",
+				"src/LaunchDock/Web/Controllers/CompaniesController.cs"
+			],
+			[
+				"create",
+				"src/LaunchDock/Application/Boats/Create.cs"
+			],
+			[
+				"b",
+				"src/LaunchDock/Domain/Boats/Boat.cs"
+			],
+			[
+				"userstes",
+				"src/LaunchDockTests/Requests/UsersTests.cs"
+			],
+			[
+				"bookre",
+				"src/LaunchDock/Application/Reservations/BookReservation.cs"
+			],
+			[
+				"charcre",
+				"src/LaunchDock/Application/Payment/ChargeCreditCard.cs"
+			],
+			[
+				"charcr",
+				"src/LaunchDockTests/Application/Payment/ChargeCreditCardTests.cs"
+			],
+			[
+				"pay",
+				"src/LaunchDockTests/Requests/PaymentTests.cs"
+			],
+			[
+				"reg",
+				"src/LaunchDockTests/Configuration/RegistrationTests.cs"
+			],
+			[
+				"ipay",
+				"src/LaunchDock/Domain/Payment/IPaymentGateway.cs"
+			],
+			[
+				"charce",
+				"src/LaunchDock/Application/Payment/ChargeCreditCard.cs"
+			],
+			[
+				"strip",
+				"src/LaunchDock/External/StripeGateway.cs"
+			],
+			[
+				"connecs",
+				"src/LaunchDockTests/Application/Companies/ConnectStripeTests.cs"
+			],
+			[
+				"compna",
+				"src/LaunchDockTests/Requests/CompaniesTests.cs"
+			],
+			[
+				"ip",
+				"src/LaunchDock/Domain/Reservations/IPaymentGateway.cs"
+			],
+			[
+				"ires",
+				"src/LaunchDock/Domain/Reservations/IReservationRepository.cs"
+			],
+			[
+				"resecon",
+				"src/LaunchDock/Web/Controllers/ReservationsController.cs"
+			],
+			[
+				"reserv",
+				"src/LaunchDock/Application/ReservationBooked.cs"
+			],
+			[
+				"creathan",
+				"src/LaunchDockTests/Application/Reservations/CreateHandlerTests.cs"
+			],
+			[
+				"stripg",
+				"src/LaunchDock/External/StripeGateway.cs"
+			],
+			[
+				"upd",
+				"src/LaunchDock/Application/Users/Update.cs"
+			],
+			[
+				"erus",
+				"src/LaunchDock/Database/EfUserRepository.cs"
+			],
+			[
+				"efuser",
+				"src/LaunchDockTests/Database/EfUserRepositoryTests.cs"
+			],
+			[
+				"comcon",
+				"src/LaunchDock/Web/Controllers/CompaniesController.cs"
+			],
+			[
+				"userte",
+				"src/LaunchDockTests/Requests/UsersTests.cs"
+			],
+			[
+				"compco",
+				"src/LaunchDock/Web/Controllers/CompaniesController.cs"
+			],
+			[
+				"efu",
+				"src/LaunchDock/Database/EfUserRepository.cs"
+			],
+			[
+				"usersch",
+				"src/LaunchDock/Database/Schemas/UserSchema.cs"
+			],
+			[
+				"ico",
+				"src/LaunchDock/Domain/Companies/ICompanyRepository.cs"
+			],
+			[
+				"efreset",
+				"src/LaunchDockTests/Database/EfReservationRepositoryTests.cs"
+			],
+			[
+				"iser",
+				"src/LaunchDock/Web/Serializers/JsonApiSerializer.cs"
+			],
+			[
+				"icom",
+				"src/LaunchDock/Domain/Companies/ICompanyRepository.cs"
+			],
+			[
+				"chagn",
+				"src/LaunchDock/Application/Reservations/ChangeBoat.cs"
+			],
+			[
+				"chaba",
+				"src/LaunchDockTests/Application/Reservations/ChangeBoatHandlerTests.cs"
+			],
+			[
+				"cha",
+				"src/LaunchDockTests/Application/Renters/CreateHandlerTests.cs"
+			],
+			[
+				"chan",
+				"src/LaunchDock/Application/Reservations/ChangeBoat.cs"
+			],
+			[
+				"user",
+				"src/LaunchDock/Domain/Users/User.cs"
+			],
+			[
+				"changeb",
+				"src/LaunchDockTests/Application/Reservations/ChangeBoatHandlerTests.cs"
+			],
+			[
+				"chagne",
+				"src/LaunchDock/Application/Reservations/ChangeBoat.cs"
+			],
+			[
+				"reseratt",
+				"src/LaunchDock/Web/Deserializers/ReservationAttrs.cs"
+			],
+			[
+				"userat",
+				"src/LaunchDock/Web/Deserializers/UserAttrs.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "ef",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_last_char_search": ";",
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_reset_during_init": true
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

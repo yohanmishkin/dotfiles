@@ -1,0 +1,1497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/services/data_formatters/vfx_breakdown_spec.rb",
+			"settings":
+			{
+				"buffer_size": 8669,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/dockyard/prodicle_scripts_api/src/app/services/data_formatters/vfx_breakdown.rb",
+			"settings":
+			{
+				"buffer_size": 4112,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/google_spreadsheet_styling.rb",
+			"settings":
+			{
+				"buffer_size": 8384,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/models/google_spreadsheet_styling_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1853,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/element.rb",
+			"settings":
+			{
+				"buffer_size": 673,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"rne",
+				"Rename File"
+			],
+			[
+				"jspre",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"hist",
+				"Sublime Merge: File History"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"his",
+				"Sublime Merge: File History"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"hi",
+				"Sublime Merge: File History"
+			],
+			[
+				"bla",
+				"Sublime Merge: Blame File"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"form",
+				"JsPrettier: Format Code"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"opre",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"snippet: new",
+				"Snippet: New Block"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"new ",
+				"Project Manager: Add New Project"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"jsprett",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"jsp",
+				"JsPrettier: Format Code"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"css\t",
+				"Set Syntax: CSS"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tj/code/dockyard/prodicle_scripts_api",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/models"
+	],
+	"file_history":
+	[
+		"/Users/tj/Downloads/test.py",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/schema.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/shot.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/element.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/services/export_to_google_sheets.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/services/export_to_google_sheets_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/google_drive_sheet.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/google_spreadsheet_styling.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/google_style_request.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/models/google_sheet_styling_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/services/data_formatters/vfx_breakdown.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/coverage/index.html",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/models/google_drive_sheet_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/google_sheet_format.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/google_drive_file.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/models/sides_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/script.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/services/data_formatters/element_report.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/serializers/script_serializer.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/scene.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/services/data_formatters/data_formatter.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/services/data_formatters/vfx_breakdown_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/Gemfile",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/Gemfile.lock",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20180830184741_create_element_categories.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20191014195346_remove_element_categories.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20190603154521_drop_work_notes.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20180723160536_drop_google_drive_tokens.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/lib/tasks/db/backfill_element_category.rake",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/controllers/elements_controller_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/README.md",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/bin/setup",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/Procfile",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/bin/update",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/controllers/sides_controller.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/controllers/google_drive_files/uploads_controller.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/services/drive_script.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/jobs/parse_job.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/config/stack/production.yml",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/controllers/concerns/script_uploadable.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/controllers/scripts_controller.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/policies/application_policy.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/controllers/application_controller.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/config/routes.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/controllers/sessions_controller.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/controllers/uht_projects_controller.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20180831174001_drop_category_tags_table.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/controllers/scripts_controller_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20180305160429_create_scripts.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/services/data_formatters/scene_report.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20180830173710_create_element_table.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20180828132534_create_category_tags.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20180828122826_create_categories.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/services/data_formatters/scene_report_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20191014193801_make_element_category_non_null.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20191010140955_remove_element_categories.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/factories/categories.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/controllers/elements_controller.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/factories/elements.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/controllers/tags_controller_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/models/element_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/services/data_formatters/legal_breakdown.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20180801214158_add_email_on_parse_complete_to_scripts.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20191009201921_remove_element_categories.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/seeds.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/fixtures/files/four_tags_pages.json",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/services/data_formatters/element_report_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/factories/scripts.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/models/scene_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/serializers/element_serializer.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/element_category.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/factories/element_categories.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/policies/element_policy.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/serializers/application_serializer.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/fixtures/files/tag_data.json",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/services/data_formatters/legal_breakdown_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/fixtures/files/pages_json.json",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/fixtures/files/scenes_json.json",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/category.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/models/script_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/fixtures/files/tag_types.json",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/controllers/google_drive_sheets/exports/vfx_breakdowns_controller_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/controllers/google_drive_sheets/exports_controller.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/Rakefile",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/tag.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/lib/tasks/.keep",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20190925193203_add_category_to_elements.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/spec_helper.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20190924145803_add_category_to_elements.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/page_scene.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20190924145430_add_category_to_elements.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20190924145635_add_category_to_elements.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20190924144341_add_category_to_elements.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20190228172828_create_tag_lines.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/jobs/script_processor_job.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/jobs/poll_parse_job.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/jobs/poll_job_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/factories/tags.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/policies/line_policy.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/policies/script_policy.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/user.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/element_scene.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/serializers/user_serializer.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/config/initializers/meechum_sign_in.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/db/migrate/20190716184216_create_adhoc_roles.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/adhoc_role.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/policies/adhoc_role_policy.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/policies/user_policy.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/concerns/clearance_commentable.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/controllers/element_scenes_controller.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/.ruby-version",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/jobs/sides_automatix_job.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/jobs/sides_automatix_job_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/.rubocop.yml",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/policies/sides_policy.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/config/sidekiq.yml",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/jobs/application_job.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/services/drive_script_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/config/application.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/controllers/google_drive_files/uploads_controller_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/sides.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/config.json",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/services/untitled.json",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/.env",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/jobs/scheduled_job.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/models/user_spec.rb",
+		"/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/shot_element.rb"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			"-log/,-spec/cassettes/,",
+			"-log/,-spec/cassettes/,spec/",
+			"-log/,-spec/cassettes/",
+			"-log/,",
+			"-log/,db/migrate/",
+			"-log/,",
+			"-log/,spec/",
+			"-log/",
+			"",
+			"app/policies/",
+			"",
+			"spec/",
+			"spec",
+			"",
+			"src/app/models/",
+			"",
+			"app/models/",
+			"spec/",
+			"",
+			"app/models/",
+			"",
+			"app/controllers/",
+			"spec/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",'",
+			"injects",
+			"styling",
+			"number",
+			"sheet_id",
+			"styles.push",
+			"sheet_numb",
+			"50",
+			"specific_sheet",
+			"50",
+			", 1",
+			", 0",
+			"columnWidth",
+			"sheet_format",
+			"w    ",
+			"global_spreadsheet_styles",
+			"spreadsheet_styles",
+			"= ",
+			"create_tab_styling_requests",
+			"length",
+			"sheet_length",
+			"GoogleSheetFormat",
+			"GoogleSheetStyling",
+			"GoogleSheetFormat",
+			"sheet_length",
+			"pixel_size",
+			"GoogleSheetFormat.new(update_dimension_properties:",
+			"wrapStrategy",
+			"top",
+			"update_dimension_properties",
+			"row_",
+			" ",
+			"export",
+			"flatten",
+			"recursively_inject_sheet_id",
+			"sheet_id",
+			"userente",
+			"FakeSheet",
+			"end.",
+			"sheet_data",
+			"styling",
+			"sheet_id",
+			"elsif",
+			"else if",
+			"elif",
+			"hash",
+			"format",
+			"_sheet",
+			"newhash",
+			"style",
+			"wha",
+			"= GoogleSheetFormat",
+			"GoogleSheetStyle",
+			"= {",
+			"@sheet.id",
+			" @",
+			".to ",
+			".to b",
+			".to_b",
+			".to_ b",
+			", {}",
+			"vfx_bre",
+			"file_id",
+			"access_token",
+			"attr_",
+			"sheet_length",
+			"id",
+			"def initiali",
+			".new(",
+			"id",
+			"len",
+			"execute_poll",
+			"def self.",
+			"create_script_scenes",
+			"v",
+			"def self.",
+			"ExportToGoogleSheets",
+			"vfx_breakdown",
+			"VfxBreakdown",
+			"GoogleDriveSheet",
+			"ExportToGoogleSheets",
+			".call",
+			"VfxBreakdown",
+			"Google::",
+			"goog",
+			"proteg",
+			":element_categ",
+			"drop_tabl",
+			"create_table :element_c",
+			"create_table element_c",
+			"create_table \"element_c",
+			"create_table",
+			"categories",
+			"capabili",
+			"breakdown.reports",
+			"scripts.legal",
+			"scripts.adhoc",
+			"prodicle.scripts.upload",
+			"prodicle.scripts.upload.capability",
+			"proteg",
+			"capabil",
+			"foreman",
+			"rails s",
+			"setup",
+			"tmp/",
+			"download_file",
+			".file",
+			"file_exists?",
+			"file_exists",
+			"tmp/fi",
+			"tmp/",
+			"saniti",
+			"HTTP_AUTHORIZATION",
+			"email",
+			".drive",
+			"Phase",
+			"upload",
+			"jebb",
+			"galv",
+			"upload",
+			"error",
+			"parse_file",
+			"ParseJob",
+			"ScriptUploadable",
+			"drive",
+			"def down",
+			"categories",
+			"."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"6",
+			"GoogleSpreadsheetStyling",
+			"category.",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/services/data_formatters/vfx_breakdown_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4389,
+								4389
+							]
+						],
+						"settings":
+						{
+							"_nv_visual_sel_mode": "mode_visual",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 1273.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/tj/code/dockyard/prodicle_scripts_api/src/app/services/data_formatters/vfx_breakdown.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3485,
+								3485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 35
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 1548.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/google_spreadsheet_styling.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7491,
+								7491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 26
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 1949.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/tj/code/dockyard/prodicle_scripts_api/src/spec/models/google_spreadsheet_styling_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								531,
+								531
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 88
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/tj/code/dockyard/prodicle_scripts_api/src/app/models/element.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 6
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prodicle_scripts_api.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"stylingsp",
+				"src/spec/models/google_sheet_styling_spec.rb"
+			],
+			[
+				"styling",
+				"src/app/models/google_spreadsheet_styling.rb"
+			],
+			[
+				"sche",
+				"src/db/schema.rb"
+			],
+			[
+				"vfx",
+				"src/app/services/data_formatters/vfx_breakdown.rb"
+			],
+			[
+				"vfxb",
+				"src/spec/services/data_formatters/vfx_breakdown_spec.rb"
+			],
+			[
+				"goo",
+				"src/app/models/google_drive_sheet.rb"
+			],
+			[
+				"exportsp",
+				"src/spec/services/export_to_google_sheets_spec.rb"
+			],
+			[
+				"export",
+				"src/app/services/export_to_google_sheets.rb"
+			],
+			[
+				"stylreq",
+				"src/app/models/google_style_request.rb"
+			],
+			[
+				"expor",
+				"src/app/services/export_to_google_sheets.rb"
+			],
+			[
+				"styles",
+				"src/spec/models/google_sheet_styling_spec.rb"
+			],
+			[
+				"googleshstyls",
+				"src/spec/models/google_sheet_styling_spec.rb"
+			],
+			[
+				"googledriveshesp",
+				"src/spec/models/google_drive_sheet_spec.rb"
+			],
+			[
+				"stylinsp",
+				"src/spec/models/google_sheet_styling_spec.rb"
+			],
+			[
+				"gootfo",
+				"src/app/models/google_sheet_format.rb"
+			],
+			[
+				"sheet",
+				"src/app/models/google_drive_sheet.rb"
+			],
+			[
+				"elemrepo",
+				"src/app/services/data_formatters/element_report.rb"
+			],
+			[
+				"scirp",
+				"src/app/models/script.rb"
+			],
+			[
+				"scripser",
+				"src/app/serializers/script_serializer.rb"
+			],
+			[
+				"datafo",
+				"src/app/services/data_formatters/data_formatter.rb"
+			],
+			[
+				"exportogoogl",
+				"src/spec/services/export_to_google_sheets_spec.rb"
+			],
+			[
+				"lock",
+				"src/Gemfile.lock"
+			],
+			[
+				"gem",
+				"src/Gemfile"
+			],
+			[
+				"exportot",
+				"src/app/services/export_to_google_sheets.rb"
+			],
+			[
+				"exporttogoo",
+				"src/app/services/export_to_google_sheets.rb"
+			],
+			[
+				"remoele",
+				"src/db/migrate/20191014195346_remove_element_categories.rb"
+			],
+			[
+				"remove",
+				"src/db/migrate/20191014195346_remove_element_categories.rb"
+			],
+			[
+				"sch",
+				"src/db/schema.rb"
+			],
+			[
+				"scrip",
+				"src/app/models/script.rb"
+			],
+			[
+				"eleme",
+				"src/app/models/element.rb"
+			],
+			[
+				"back",
+				"src/lib/tasks/db/backfill_element_category.rake"
+			],
+			[
+				"rea",
+				"src/README.md"
+			],
+			[
+				"proc",
+				"src/Procfile"
+			],
+			[
+				"dri",
+				"src/app/services/drive_script.rb"
+			],
+			[
+				"parj",
+				"src/app/jobs/parse_job.rb"
+			],
+			[
+				"yml",
+				"src/config/stack/production.yml"
+			],
+			[
+				"upla",
+				"src/app/controllers/google_drive_files/uploads_controller.rb"
+			],
+			[
+				"scrpc",
+				"src/app/controllers/scripts_controller.rb"
+			],
+			[
+				"appp",
+				"src/app/policies/application_policy.rb"
+			],
+			[
+				"appcon",
+				"src/app/controllers/application_controller.rb"
+			],
+			[
+				"drive",
+				"src/app/services/drive_script.rb"
+			],
+			[
+				"googledrive",
+				"src/app/models/google_drive_file.rb"
+			],
+			[
+				"scripupl",
+				"src/app/controllers/concerns/script_uploadable.rb"
+			],
+			[
+				"upload",
+				"src/app/controllers/google_drive_files/uploads_controller.rb"
+			],
+			[
+				"sessioncon",
+				"src/app/controllers/sessions_controller.rb"
+			],
+			[
+				"uht",
+				"src/app/controllers/uht_projects_controller.rb"
+			],
+			[
+				"route",
+				"src/config/routes.rb"
+			],
+			[
+				"projects",
+				"src/app/controllers/uht_projects_controller.rb"
+			],
+			[
+				"scripsp",
+				"src/spec/controllers/scripts_controller_spec.rb"
+			],
+			[
+				"migr/",
+				"src/db/migrate/20180305160429_create_scripts.rb"
+			],
+			[
+				"ele",
+				"src/app/models/element.rb"
+			],
+			[
+				"backf",
+				"src/lib/tasks/db/backfill_element_category.rake"
+			],
+			[
+				"lement",
+				"src/app/models/element.rb"
+			],
+			[
+				"backfi",
+				"src/lib/tasks/db/backfill_element_category.rake"
+			],
+			[
+				"schem",
+				"src/db/schema.rb"
+			],
+			[
+				"scerepo",
+				"src/app/services/data_formatters/scene_report.rb"
+			],
+			[
+				"scenre",
+				"src/app/services/data_formatters/scene_report.rb"
+			],
+			[
+				"scenerepo",
+				"src/spec/services/data_formatters/scene_report_spec.rb"
+			],
+			[
+				"scriptsocnsp",
+				"src/spec/controllers/scripts_controller_spec.rb"
+			],
+			[
+				"cate",
+				"src/spec/factories/categories.rb"
+			],
+			[
+				"elemecon",
+				"src/app/controllers/elements_controller.rb"
+			],
+			[
+				"elemcons",
+				"src/spec/controllers/elements_controller_spec.rb"
+			],
+			[
+				"elementsco",
+				"src/app/controllers/elements_controller.rb"
+			],
+			[
+				"elementscon",
+				"src/app/controllers/elements_controller.rb"
+			],
+			[
+				"elemspe",
+				"src/spec/models/element_spec.rb"
+			],
+			[
+				"tagscon",
+				"src/spec/controllers/tags_controller_spec.rb"
+			],
+			[
+				"elem",
+				"src/spec/factories/elements.rb"
+			],
+			[
+				"migrateions",
+				"src/db/migrate/20180801214158_add_email_on_parse_complete_to_scripts.rb"
+			],
+			[
+				"elemen",
+				"src/app/models/element.rb"
+			],
+			[
+				"seed",
+				"src/db/seeds.rb"
+			],
+			[
+				"removeele",
+				"src/db/migrate/20191009201921_remove_element_categories.rb"
+			],
+			[
+				"scenrpeo",
+				"src/spec/services/data_formatters/scene_report_spec.rb"
+			],
+			[
+				"tagsjs",
+				"src/spec/fixtures/files/four_tags_pages.json"
+			],
+			[
+				"elemreposp",
+				"src/spec/services/data_formatters/element_report_spec.rb"
+			],
+			[
+				"scene",
+				"src/app/models/scene.rb"
+			],
+			[
+				"elemca",
+				"src/spec/factories/element_categories.rb"
+			],
+			[
+				"appser",
+				"src/app/serializers/application_serializer.rb"
+			],
+			[
+				"elemser",
+				"src/app/serializers/element_serializer.rb"
+			],
+			[
+				"elemcon",
+				"src/spec/controllers/elements_controller_spec.rb"
+			],
+			[
+				"scereposp",
+				"src/spec/services/data_formatters/scene_report_spec.rb"
+			],
+			[
+				"scenrepo",
+				"src/app/services/data_formatters/scene_report.rb"
+			],
+			[
+				"pagesjs",
+				"src/spec/fixtures/files/pages_json.json"
+			],
+			[
+				"tagdata",
+				"src/spec/fixtures/files/tag_data.json"
+			],
+			[
+				"legalb",
+				"src/app/services/data_formatters/legal_breakdown.rb"
+			],
+			[
+				"elgabre",
+				"src/spec/services/data_formatters/legal_breakdown_spec.rb"
+			],
+			[
+				"tagda",
+				"src/spec/fixtures/files/tag_data.json"
+			],
+			[
+				"tagjs",
+				"src/spec/fixtures/files/tag_data.json"
+			],
+			[
+				"pgaesjs",
+				"src/spec/fixtures/files/pages_json.json"
+			],
+			[
+				"scenesjs",
+				"src/spec/fixtures/files/scenes_json.json"
+			],
+			[
+				"tagsd",
+				"src/spec/fixtures/files/tag_data.json"
+			],
+			[
+				"categ",
+				"src/app/models/category.rb"
+			],
+			[
+				"scenerepos",
+				"src/spec/services/data_formatters/scene_report_spec.rb"
+			],
+			[
+				"scenerep",
+				"src/app/services/data_formatters/scene_report.rb"
+			],
+			[
+				"scespe",
+				"src/spec/models/scene_spec.rb"
+			],
+			[
+				"tagsconsp",
+				"src/spec/controllers/tags_controller_spec.rb"
+			],
+			[
+				"scripcon",
+				"src/app/controllers/scripts_controller.rb"
+			],
+			[
+				"tasks/",
+				"src/lib/tasks/db/backfill_element_category.rake"
+			],
+			[
+				"elemseria",
+				"src/app/serializers/element_serializer.rb"
+			],
+			[
+				"elemcat",
+				"src/app/models/element_category.rb"
+			],
+			[
+				"lea",
+				"src/spec/services/data_formatters/legal_breakdown_spec.rb"
+			],
+			[
+				"elemerepo",
+				"src/app/services/data_formatters/element_report.rb"
+			],
+			[
+				"tagtypes",
+				"src/spec/fixtures/files/tag_types.json"
+			],
+			[
+				"elemeca",
+				"src/app/models/element_category.rb"
+			],
+			[
+				"vfxspec",
+				"src/spec/services/data_formatters/vfx_breakdown_spec.rb"
+			],
+			[
+				"exporspec",
+				"src/spec/controllers/google_drive_sheets/exports/vfx_breakdowns_controller_spec.rb"
+			],
+			[
+				"scne",
+				"src/app/models/scene.rb"
+			],
+			[
+				"scenereposp",
+				"src/spec/services/data_formatters/scene_report_spec.rb"
+			],
+			[
+				"elemeconsp",
+				"src/spec/controllers/elements_controller_spec.rb"
+			],
+			[
+				"backfil",
+				"src/lib/tasks/db/backfill_element_category.rake"
+			],
+			[
+				"eme",
+				"src/app/models/element.rb"
+			],
+			[
+				"rake",
+				"src/Rakefile"
+			],
+			[
+				"task",
+				"src/lib/tasks/.keep"
+			],
+			[
+				"scripspc",
+				"src/spec/models/script_spec.rb"
+			],
+			[
+				"scri",
+				"src/app/models/script.rb"
+			],
+			[
+				"schema",
+				"src/db/schema.rb"
+			],
+			[
+				"addcate",
+				"src/db/migrate/20190925193203_add_category_to_elements.rb"
+			],
+			[
+				"spech",
+				"src/spec/spec_helper.rb"
+			],
+			[
+				"factori/el",
+				"src/spec/factories/elements.rb"
+			],
+			[
+				"controller",
+				"src/app/controllers/elements_controller.rb"
+			],
+			[
+				"elemepo",
+				"src/app/policies/element_policy.rb"
+			],
+			[
+				"eleemcon",
+				"src/app/controllers/elements_controller.rb"
+			],
+			[
+				"elemeser",
+				"src/app/serializers/element_serializer.rb"
+			],
+			[
+				"scripse",
+				"src/app/serializers/script_serializer.rb"
+			],
+			[
+				"ele e ca",
+				"src/app/models/element_category.rb"
+			],
+			[
+				"factories/ele",
+				"src/spec/factories/elements.rb"
+			],
+			[
+				"script",
+				"src/app/models/script.rb"
+			],
+			[
+				"ddcatetoele",
+				"src/db/migrate/20190924144341_add_category_to_elements.rb"
+			],
+			[
+				"elemsp",
+				"src/spec/models/element_spec.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "Eleme",
+		"selected_items":
+		[
+			[
+				"Eleme",
+				"Element"
+			],
+			[
+				"Shot",
+				"Shot"
+			],
+			[
+				"elem",
+				"Element"
+			],
+			[
+				"SHot",
+				"Shot"
+			],
+			[
+				"Script",
+				"Script"
+			],
+			[
+				"cate",
+				"Category"
+			],
+			[
+				"Elem",
+				"ElementCategory"
+			],
+			[
+				"ele",
+				"Element"
+			],
+			[
+				"Scrip",
+				"Script"
+			],
+			[
+				"User",
+				"User"
+			],
+			[
+				"Elemesc",
+				"ElementScene"
+			],
+			[
+				"Sdies",
+				"Sides"
+			],
+			[
+				"E",
+				"Element"
+			],
+			[
+				"lnie",
+				"Line"
+			],
+			[
+				"SCe",
+				"Scene"
+			],
+			[
+				"Tag",
+				"Tag"
+			],
+			[
+				"sce",
+				"Scene"
+			],
+			[
+				"Sce",
+				"Scene"
+			],
+			[
+				"sidesser",
+				"SidesSerializer"
+			],
+			[
+				"Sides",
+				"Sides"
+			],
+			[
+				"sides",
+				"Sides"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "5",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_last_char_search": "2",
+		"_vintageous_last_char_search_command": "vi_f",
+		"_vintageous_reset_during_init": true
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

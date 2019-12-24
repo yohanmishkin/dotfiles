@@ -1,0 +1,11 @@
+// SublimeLinter Settings - User
+{
+  "lint_mode": "save",
+  "linters": {
+    "eslint": {
+      "fix_on_save": true,
+        "args": ["--fix-dry-run"],
+        "excludes": ["webpack.config.js"],
+    }
+  }
+}

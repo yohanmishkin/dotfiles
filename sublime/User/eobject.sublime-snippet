@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+import { ${1:thingToImport} } from '@ember/object';
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>eobject</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

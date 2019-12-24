@@ -1,0 +1,1184 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"daa-tes",
+				"data-test-create-sides\tabc"
+			],
+			[
+				"data-tes",
+				"data-test-shot-difficulty\t(scene-shots-test.js)"
+			],
+			[
+				"data-test-sce",
+				"data-test-scene-typeahead\t(select-scenes-test.js)"
+			],
+			[
+				"showAutmo",
+				"showAutomatixExportModal\tabc"
+			],
+			[
+				"succ",
+				"success\t(element-form-test.js)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/tj/code/emberjs/data/packages/-ember-data/tests/helpers/test-in-debug.js",
+			"settings":
+			{
+				"buffer_size": 195,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/emberjs/data/packages/adapter/addon/-private/utils/determine-body-promise.ts",
+			"settings":
+			{
+				"buffer_size": 1450,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hist",
+				"Sublime Merge: File History"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"blam",
+				"Sublime Merge: Blame File"
+			],
+			[
+				"new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"hi",
+				"Sublime Merge: File History"
+			],
+			[
+				"bla",
+				"Sublime Merge: Blame File"
+			],
+			[
+				"bl",
+				"Sublime Merge: Blame File"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"keb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"form",
+				"JsPrettier: Format Code"
+			],
+			[
+				"js",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"co",
+				"UI: Select Color Scheme"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ope re",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ha",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"uin",
+				"Permute Lines: Unique"
+			],
+			[
+				"jsfor",
+				"JsPrettier: Format Code"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"jsp",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"pret",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rmeo\t",
+				"Package Control: Remove Package"
+			],
+			[
+				"new pr",
+				"Project Manager: Add New Project"
+			],
+			[
+				"jsprett",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"css\t",
+				"Set Syntax: CSS"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"/qwer"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tj/code/emberjs/data",
+		"/Users/tj/code/emberjs/data/packages",
+		"/Users/tj/code/emberjs/data/packages/-ember-data",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/addon",
+		"/Users/tj/code/emberjs/data/packages/adapter",
+		"/Users/tj/code/emberjs/data/packages/adapter/addon",
+		"/Users/tj/code/emberjs/data/packages/adapter/addon/-private",
+		"/Users/tj/code/emberjs/data/packages/adapter/addon/-private/utils"
+	],
+	"file_history":
+	[
+		"/Users/tj/code/emberjs/data/packages/serializer/addon/rest.js",
+		"/Users/tj/code/emberjs/data/packages/adapter/addon/rest.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/unit/model-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/adapter/rest-adapter-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/helpers/test-in-debug.js",
+		"/Users/tj/code/emberjs/data/.yarn/releases/yarn-1.17.3.js",
+		"/Users/tj/code/emberjs/data/.eslintrc.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/records/unload-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/addon/model.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/addon/attr.js",
+		"/Users/tj/code/emberjs/data/CHANGELOG.md",
+		"/Users/tj/code/emberjs/data/packages/model/addon/-private/attr.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/store/adapter-for-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/test-helper.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/store/serializer-for-test.js",
+		"/Users/tj/code/emberjs/data/packages/store/addon/-private/system/promise-proxies.js",
+		"/Users/tj/code/emberjs/data/packages/store/addon/-private/utils/promise-record.ts",
+		"/Users/tj/code/emberjs/data/packages/store/addon/-private/system/core-store.ts",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/store-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/application-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/records/rematerialize-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/relationships/json-api-links-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/relationships/one-to-many-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/relationships/unload-new-record-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/unit/model/init-properties-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/unit/model/relationships/has-many-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/acceptance/relationships/has-many-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/unit/model/rollback-attributes-test.js",
+		"/Users/tj/code/emberjs/data/README.md",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/unit/store/unload-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/identifiers/lid-reflection-test.ts",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/identifiers/record-identifier-for-test.ts",
+		"/Users/tj/code/emberjs/data/packages/store/addon/-private/system/store/common.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/addon/store.ts",
+		"/Users/tj/code/emberjs/data/package.json",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/adapter/store-adapter-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/identifiers/configuration-test.ts",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/relationships/has-many-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/relationships/belongs-to-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/records/reload-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/records/load-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/records/edit-record-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/records/create-record-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/identifiers/new-records-test.ts",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/record-array-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/injection-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/integration/client-id-generation-test.js",
+		"/Users/tj/code/emberjs/data/packages/-ember-data/tests/acceptance/relationships/belongs-to-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/add-shot.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/prodicle-scripts-typeahead.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/script-display.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/add-shot.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/services/sheet-export.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/unit/services/sheet-export-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/vendor/api.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/index.html",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/ember-cli-build.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/initializers/link-to-data-attr.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/router.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/scene-data-modal-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/controllers/scripts/script/show/export/choose-export-options.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/automatix-export-modal.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/scene-list-item-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/category-scenes-left-drawer-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/scene-list-item.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/package.json",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/mixins/scene-modifier-functions.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/mixins/script-options.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/unit/mixins/scene-modifier-functions-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/unit/mixins/script-options-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/services/scroll-state-manager.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/scene-list-item.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/category-scenes-left-drawer.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/controllers/scripts/ad-hoc/index.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/script/show/filter-categories.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/script/show/add-element.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/.eslintrc.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/element-scene-display-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/element-scene-display.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/services/current-user.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/user.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/user-movie-capability.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/script.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/services/features.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/services/notifications.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/adapters/application.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/tag-edit.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/clearance-comment-select.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/clearance-comment-select.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/element-scene-display.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/adhoc-role.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/script/show/add-element.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/element-form.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/element-form.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/category-list-item.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/scene.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/sides-scene-selection-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/export-script-breakdown-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/category-scenes-left-drawer.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/script/show.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/element.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/banner-notice.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/constants.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/controllers/scripts/script/show/add-element.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/category-select.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/application.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/category-select.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/script-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/sides-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/clearance-comment-select-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/tag.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/mirage/config.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/add-remove-category-from-element-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/helpers/stub-service.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/rename-category-modal-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/scene-edit.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/script-display.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/config/environment.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/.ember-cli",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/helpers/add.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/page.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/scene-edit.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/page-scene.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/element-form-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/helpers/friendly-clearance-comment.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/helpers/friendly-shot-difficulty.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/element-scene.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/script/sides/select-scenes.hbs"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"",
+			"packages/-ember-data/tests/",
+			"",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"useFetch",
+			"assert.expectDeprecation",
+			"if (DEBU",
+			"if (DE",
+			"attr",
+			"model/attr",
+			"assert.ok",
+			"assert",
+			"assert.ok",
+			"assert",
+			"assert.ok",
+			"assert.ok(",
+			"assert.ok",
+			"===",
+			"assert.ok",
+			"_guar",
+			"      assert.ok(identifier.lid.length > 0, 'We have an identifier with an lid');\n",
+			"      assert.strictEqual(typeof identifier.lid, 'string', 'lid is a string');\n",
+			"      assert.strictEqual(\n        typeof identifier.lid,\n",
+			"notstric",
+			"lostrictEqualed",
+			"hostrictEquals",
+			"ok\\(.*===",
+			"ok",
+			"ok(typeof identifier.lid ===",
+			"ok",
+			"\n      ",
+			"ok",
+			"ok\\(.*===",
+			"ok.*===",
+			"===",
+			"ok"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/tj/code/emberjs/data/packages/-ember-data/tests/helpers/test-in-debug.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/tj/code/emberjs/data/packages/adapter/addon/-private/utils/determine-body-promise.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ember-data.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rest.js",
+				"packages/serializer/addon/rest.js"
+			],
+			[
+				"modeltest",
+				"packages/-ember-data/tests/unit/model-test.js"
+			],
+			[
+				"attr",
+				"packages/model/addon/-private/attr.js"
+			],
+			[
+				"chang",
+				"CHANGELOG.md"
+			],
+			[
+				"unl",
+				"packages/-ember-data/tests/integration/records/unload-test.js"
+			],
+			[
+				"eslin",
+				".eslintrc.js"
+			],
+			[
+				"promispr",
+				"packages/store/addon/-private/system/promise-proxies.js"
+			],
+			[
+				"promiserec",
+				"packages/store/addon/-private/utils/promise-record.ts"
+			],
+			[
+				"corest",
+				"packages/store/addon/-private/system/core-store.ts"
+			],
+			[
+				"esli",
+				".eslintrc.js"
+			],
+			[
+				"storee",
+				"packages/-ember-data/tests/integration/store-test.js"
+			],
+			[
+				"apptest",
+				"packages/-ember-data/tests/integration/application-test.js"
+			],
+			[
+				"remat",
+				"packages/-ember-data/tests/integration/records/rematerialize-test.js"
+			],
+			[
+				"unload",
+				"packages/-ember-data/tests/unit/store/unload-test.js"
+			],
+			[
+				"jsonapili",
+				"packages/-ember-data/tests/integration/relationships/json-api-links-test.js"
+			],
+			[
+				"one-t",
+				"packages/-ember-data/tests/integration/relationships/one-to-many-test.js"
+			],
+			[
+				"unladow",
+				"packages/-ember-data/tests/integration/relationships/unload-new-record-test.js"
+			],
+			[
+				"testh",
+				"packages/-ember-data/tests/test-helper.js"
+			],
+			[
+				"adapfor",
+				"packages/-ember-data/tests/integration/store/adapter-for-test.js"
+			],
+			[
+				"serialiforte",
+				"packages/-ember-data/tests/integration/store/serializer-for-test.js"
+			],
+			[
+				"initpr",
+				"packages/-ember-data/tests/unit/model/init-properties-test.js"
+			],
+			[
+				"hasmantest",
+				"packages/-ember-data/tests/unit/model/relationships/has-many-test.js"
+			],
+			[
+				"hasm",
+				"packages/-ember-data/tests/acceptance/relationships/has-many-test.js"
+			],
+			[
+				"rollbac",
+				"packages/-ember-data/tests/unit/model/rollback-attributes-test.js"
+			],
+			[
+				"modeltes",
+				"packages/-ember-data/tests/unit/model-test.js"
+			],
+			[
+				"common",
+				"packages/store/addon/-private/system/store/common.js"
+			],
+			[
+				"store",
+				"packages/-ember-data/addon/store.ts"
+			],
+			[
+				"storetes",
+				"packages/-ember-data/tests/integration/store-test.js"
+			],
+			[
+				"identes",
+				"packages/-ember-data/tests/integration/identifiers/record-identifier-for-test.ts"
+			],
+			[
+				"lidre",
+				"packages/-ember-data/tests/integration/identifiers/lid-reflection-test.ts"
+			],
+			[
+				"confte",
+				"packages/-ember-data/tests/integration/identifiers/configuration-test.ts"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"storadate",
+				"packages/-ember-data/tests/integration/adapter/store-adapter-test.js"
+			],
+			[
+				"hamanyt",
+				"packages/-ember-data/tests/acceptance/relationships/has-many-test.js"
+			],
+			[
+				"belognstet",
+				"packages/-ember-data/tests/acceptance/relationships/belongs-to-test.js"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"storetest",
+				"packages/-ember-data/tests/integration/store-test.js"
+			],
+			[
+				"addsh",
+				"src/app/templates/components/add-shot.hbs"
+			],
+			[
+				"focuslo",
+				"src/app/components/focus-loop.js"
+			],
+			[
+				"focu",
+				"src/app/templates/components/focus-loop.hbs"
+			],
+			[
+				"focus",
+				"src/tests/integration/components/focus-loop-test.js"
+			],
+			[
+				"addhso",
+				"src/app/components/add-shot.js"
+			],
+			[
+				"addshohb",
+				"src/app/templates/components/add-shot.hbs"
+			],
+			[
+				"api",
+				"src/vendor/api.js"
+			],
+			[
+				"buil",
+				"src/ember-cli-build.js"
+			],
+			[
+				"index",
+				"src/app/index.html"
+			],
+			[
+				"routr",
+				"src/app/router.js"
+			],
+			[
+				"initiiazli",
+				"src/app/initializers/link-to-data-attr.js"
+			],
+			[
+				"shee",
+				"src/app/services/sheet-export.js"
+			],
+			[
+				"sheetex",
+				"src/app/services/sheet-export.js"
+			],
+			[
+				"scrosta",
+				"src/app/services/scroll-state-manager.js"
+			],
+			[
+				"router",
+				"src/app/router.js"
+			],
+			[
+				"unitmi",
+				"src/tests/unit/mixins/scene-modifier-functions-test.js"
+			],
+			[
+				"mixins/",
+				"src/app/mixins/scene-modifier-functions.js"
+			],
+			[
+				"darwtest",
+				"src/tests/integration/components/category-scenes-left-drawer-test.js"
+			],
+			[
+				"sceili",
+				"src/app/components/scene-list-item.js"
+			],
+			[
+				"sceli",
+				"src/tests/integration/components/scene-list-item-test.js"
+			],
+			[
+				"scenelisthb",
+				"src/app/templates/components/scene-list-item.hbs"
+			],
+			[
+				"drawe",
+				"src/app/templates/components/category-scenes-left-drawer.hbs"
+			],
+			[
+				"elementscedishb",
+				"src/app/templates/components/element-scene-display.hbs"
+			],
+			[
+				"routes",
+				"src/app/router.js"
+			],
+			[
+				"ada",
+				"src/app/adapters/application.js"
+			],
+			[
+				"curre",
+				"src/app/services/current-user.js"
+			],
+			[
+				"userm",
+				"src/app/models/user-movie-capability.js"
+			],
+			[
+				"user",
+				"src/app/models/user.js"
+			],
+			[
+				"clearcommh",
+				"src/app/templates/components/clearance-comment-select.hbs"
+			],
+			[
+				"clearcom",
+				"src/app/components/clearance-comment-select.js"
+			],
+			[
+				"scrip",
+				"src/app/models/script.js"
+			],
+			[
+				"adh",
+				"src/app/models/adhoc-role.js"
+			],
+			[
+				"adhoro",
+				"src/app/models/adhoc-role.js"
+			],
+			[
+				"curr",
+				"src/app/services/current-user.js"
+			],
+			[
+				"noti",
+				"src/app/services/notifications.js"
+			],
+			[
+				"scedis",
+				"src/app/components/element-scene-display.js"
+			],
+			[
+				"feat",
+				"src/app/services/features.js"
+			],
+			[
+				"eleforjs",
+				"src/app/components/element-form.js"
+			],
+			[
+				"elefoh",
+				"src/app/templates/components/element-form.hbs"
+			],
+			[
+				"scene",
+				"src/app/models/scene.js"
+			],
+			[
+				"elescedis",
+				"src/app/components/element-scene-display.js"
+			],
+			[
+				"elelscedish",
+				"src/app/templates/components/element-scene-display.hbs"
+			],
+			[
+				"eelescedi",
+				"src/app/components/element-scene-display.js"
+			],
+			[
+				"fea",
+				"src/app/services/features.js"
+			],
+			[
+				"elemscediste",
+				"src/tests/integration/components/element-scene-display-test.js"
+			],
+			[
+				"bannerno",
+				"src/app/components/banner-notice.js"
+			],
+			[
+				"scelist",
+				"src/tests/integration/components/scene-list-item-test.js"
+			],
+			[
+				"ele",
+				"src/app/models/element.js"
+			],
+			[
+				"showhb",
+				"src/app/templates/scripts/script/show.hbs"
+			],
+			[
+				"catesele",
+				"src/app/components/category-select.js"
+			],
+			[
+				"const",
+				"src/app/constants.js"
+			],
+			[
+				"catesetlhb",
+				"src/app/templates/components/category-select.hbs"
+			],
+			[
+				"not",
+				"src/app/services/notifications.js"
+			],
+			[
+				"sidestest",
+				"src/tests/acceptance/sides-test.js"
+			],
+			[
+				"tag",
+				"src/app/models/tag.js"
+			],
+			[
+				"elem",
+				"src/app/models/element.js"
+			],
+			[
+				"adap",
+				"src/app/adapters/application.js"
+			],
+			[
+				"scriptest",
+				"src/tests/acceptance/script-test.js"
+			],
+			[
+				"confi",
+				"src/mirage/config.js"
+			],
+			[
+				"stuse",
+				"src/tests/helpers/stub-service.js"
+			],
+			[
+				"catelefd",
+				"src/app/templates/components/category-scenes-left-drawer.hbs"
+			],
+			[
+				"elemforhb",
+				"src/app/templates/components/element-form.hbs"
+			],
+			[
+				"en",
+				"src/config/environment.js"
+			],
+			[
+				"scripdis",
+				"src/app/components/script-display.js"
+			],
+			[
+				"page",
+				"src/app/models/page.js"
+			],
+			[
+				"pagesc",
+				"src/app/models/page-scene.js"
+			],
+			[
+				"sce",
+				"src/app/components/scene-edit.js"
+			],
+			[
+				"scirpdi",
+				"src/app/components/script-display.js"
+			],
+			[
+				"sceenedhb",
+				"src/app/templates/components/scene-edit.hbs"
+			],
+			[
+				"consts",
+				"src/app/constants.js"
+			],
+			[
+				"con",
+				"src/mirage/config.js"
+			],
+			[
+				"elemdhs",
+				"src/app/templates/components/element-scene-display.hbs"
+			],
+			[
+				"lefd",
+				"src/app/components/category-scenes-left-drawer.js"
+			],
+			[
+				"catesce",
+				"src/app/templates/components/category-scenes-left-drawer.hbs"
+			],
+			[
+				"leftd",
+				"src/tests/integration/components/category-scenes-left-drawer-test.js"
+			],
+			[
+				"clear",
+				"src/app/templates/components/clearance-comment-select.hbs"
+			],
+			[
+				"elemescehb",
+				"src/app/templates/components/element-scene-display.hbs"
+			],
+			[
+				"elemenfor",
+				"src/app/components/element-form.js"
+			],
+			[
+				"elefh",
+				"src/app/templates/components/element-form.hbs"
+			],
+			[
+				"elefortes",
+				"src/tests/integration/components/element-form-test.js"
+			],
+			[
+				"cleara",
+				"src/app/templates/components/clearance-comment-select.hbs"
+			],
+			[
+				"scen",
+				"src/app/models/scene.js"
+			],
+			[
+				"displ",
+				"src/app/components/element-scene-display.js"
+			],
+			[
+				"scelish",
+				"src/app/templates/components/scene-list-item.hbs"
+			],
+			[
+				"eleforhb",
+				"src/app/templates/components/element-form.hbs"
+			],
+			[
+				"elemfo",
+				"src/tests/integration/components/element-form-test.js"
+			],
+			[
+				"freac",
+				"src/app/helpers/friendly-clearance-comment.js"
+			],
+			[
+				"diff",
+				"src/app/helpers/friendly-shot-difficulty.js"
+			],
+			[
+				"consta",
+				"src/app/constants.js"
+			],
+			[
+				"catelisthb",
+				"src/app/templates/components/category-list-item.hbs"
+			],
+			[
+				"elemscedis",
+				"src/app/components/element-scene-display.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 596.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "_fetchRequest",
+		"_vintageous_last_buffer_search_command": "vi_octothorp",
+		"_vintageous_last_char_search": "1",
+		"_vintageous_last_char_search_command": "vi_f",
+		"_vintageous_reset_during_init": true
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

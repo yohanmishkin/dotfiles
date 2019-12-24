@@ -1,0 +1,1316 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ind",
+				"intlDateFormat\t(date-picker-text-input-dropdown.js)"
+			],
+			[
+				"data-tes",
+				"data-test-shot-difficulty\t(scene-shots-test.js)"
+			],
+			[
+				"data-test-sce",
+				"data-test-scene-typeahead\t(select-scenes-test.js)"
+			],
+			[
+				"showAutmo",
+				"showAutomatixExportModal\tabc"
+			],
+			[
+				"succ",
+				"success\t(element-form-test.js)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/tj/code/dockyard/prodicle-core-components/src/tests/integration/components/prodicle-form/date-picker-text-input-dropdown-test.js",
+			"settings":
+			{
+				"buffer_size": 5299,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/dockyard/prodicle-core-components/src/package.json",
+			"settings":
+			{
+				"buffer_size": 3101,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-form/date-picker.hbs",
+			"settings":
+			{
+				"buffer_size": 1581,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"form",
+				"JsPrettier: Format Code"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"hist",
+				"Sublime Merge: File History"
+			],
+			[
+				"bl",
+				"Sublime Merge: Blame File"
+			],
+			[
+				"hi",
+				"Sublime Merge: File History"
+			],
+			[
+				"new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"js",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"co",
+				"UI: Select Color Scheme"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ope re",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"blam",
+				"Sublime Merge: Blame File"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ha",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"uin",
+				"Permute Lines: Unique"
+			],
+			[
+				"jsfor",
+				"JsPrettier: Format Code"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"jsp",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"pret",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rmeo\t",
+				"Package Control: Remove Package"
+			],
+			[
+				"new pr",
+				"Project Manager: Add New Project"
+			],
+			[
+				"jsprett",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"css\t",
+				"Set Syntax: CSS"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"/qwer"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tj/code/dockyard/prodicle-core-components",
+		"/Users/tj/code/dockyard/prodicle-core-components/src",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/app"
+	],
+	"file_history":
+	[
+		"/Users/tj/code/dockyard/prodicle-core-components/src/package-lock.json",
+		"/Users/tj/code/dockyard/prodicle-core-components/CHANGELOG.md",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-form/date-picker-text-input-dropdown.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/package.json",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-form/date-picker-text-input-dropdown.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/utils/intl-date-format.js",
+		"/Users/tj/Downloads/blah.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/CONTRIBUTING.md",
+		"/Users/tj/code/dockyard/prodicle-core-components/README.md",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-action-button-menu.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/integration/components/prodicle-form/date-picker-text-input-dropdown-test.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/dummy/app/templates/datepicker/index.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/dummy/app/snippets/datepicker/datepicker-dropdown.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-button-filled.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/utils/keys.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/day-selection.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-menu.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/integration/components/prodicle-button-filled-test.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-form/date-picker.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-form/-date-picker-days.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-form/-date-picker-days.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-form/date-picker.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/integration/components/prodicle-form/date-picker-test.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/dummy/app/controllers/datepicker/index.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/dummy/app/snippets/datepicker/datepicker-defaults.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/dummy/app/templates/index.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/unit/utils/intl-date-format-test.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-form/text-input-field.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/app/components/prodicle-form-label.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-form/date-picker-text-input.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-form/date-picker-text-input.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/services/-prodicle-sidepanel-state.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/unit/mixins/hidden-sidenav-route-test.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-form/-date-range-picker-days.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-form/field-group.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/app/components/prodicle-form-date-picker.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/qwer.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-menu.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/app/components/prodicle-form-text-input-field.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/app/components/prodicle-form/-date-range-picker-days.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/dummy/app/templates/datepicker.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/root/etc/default/ezconfig",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-form/text-input-field.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/integration/components/prodicle-form/datepicker-test.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/app/components/prodicle-form-date-picker-text-input-dropdown.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/integration/components/prodicle-form/input-test.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/app/components/prodicle-form-date-picker-text-input.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-menu/anchor.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-menu/link-to.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/dummy/app/templates/components/core-nav.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-menu/anchor.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/docs/001-getting-started.md",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-menu/link-to.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/app/components/prodicle-header-nav.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/integration/components/prodicle-page-header/search-test.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-header.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/integration/components/prodicle-page-header/subhead-test.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-page-header/subhead.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-empty-state.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/config/environment.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/dummy/config/environment.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/tests/integration/components/prodicle-modal-test.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-modal.hbs",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-modal.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/utils/focusable-element-finders.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/app/utils/focusable-element-finders.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/components/prodicle-modal/content.js",
+		"/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-button-filled.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/scene.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/script-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/helpers/friendly-shot-difficulty-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/helpers/friendly-shot-difficulty.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/constants.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/scene-shots-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/shot.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/scene-shots.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/scene-shots.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/select-scenes-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/controllers/scripts/script/sides/select-scenes.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/script/sides/select-scenes.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/element-scene-display.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/tag-edit.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/adhoc-settings.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/category-menu.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/integration/components/adhoc-settings-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/scene-edit.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/banner-notice.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/scene-list-item.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/script-table.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/sides-list.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/ad-hoc.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/projects/project.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/script.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/script/sides/select-scenes.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/router.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/script/edit.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/mirage/config.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/mirage/serializers/script.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/controllers/scripts/script/show.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/sides-scene-selection.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/sides-scene-selection.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/controllers/sides-scene-selection.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/script/show.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/upload/script-information.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/scripts/script/show/combine-elements.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/scripts/script/show.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/config/environment.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/controllers/scripts/upload.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/script-display.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/add-remove-category-from-element-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/category-select.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/components/category-select.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/script-information-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/models/script.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/package.json",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/templates/components/category-list-item.hbs",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/controllers/scripts/ad-hoc/index.js",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Packages/User/Javascript/Prototype-()-{}.sublime-snippet",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Cache/JavaScript/JavaScript.sublime-syntax.cache",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Packages/User/JavaScript/Prototype-()-{}-(faster).sublime-snippet",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Packages/User/Javascript/proto-()-{}.sublime-snippet",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Packages/User/Javascript/proto-()-{}-(faster).sublime-snippet.xml",
+		"/Users/tj/Library/Application Support/Sublime Text 3/Packages/User/proto.sublime-snippet",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/fixtures/scripts.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/app/routes/application.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/acceptance/sides-test.js",
+		"/Users/tj/code/dockyard/prodicle_scripts_ui/src/tests/helpers/enable-sides.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			"",
+			"tests/",
+			"*hbs",
+			"",
+			"src/,-src/tests/",
+			"src/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ember-power-calend",
+			"formateDat",
+			"response",
+			".0",
+			"hasFocusedElsewhere",
+			"datePicker",
+			"hasFocusedElsewhere",
+			"setDate(",
+			"content",
+			"trigger",
+			"dd.",
+			"dd",
+			"{{",
+			"addEvent",
+			"isLeavingComponent",
+			"triggerKe",
+			"elementId",
+			"document.",
+			"uniqueId",
+			"{ KEYS",
+			"key",
+			"tab",
+			"ProdicleFormDatePickerTextInputDropdown",
+			"trigger",
+			"DatePick",
+			"<DateP",
+			"PowerCale",
+			"power-cal",
+			"this.set",
+			"-",
+			"{{",
+			"selectedDate",
+			"this.set",
+			"qwer",
+			"qewr",
+			"data",
+			"-id",
+			"date picker",
+			"can",
+			"prodicle-datepicker-container",
+			"open",
+			"isVis",
+			"datetime",
+			"DateTime",
+			"datetime",
+			"DateTime",
+			"datetime",
+			"value",
+			"setDateFromInput",
+			"focus",
+			"dateString",
+			"isoDateString",
+			"ISOD",
+			"isoD",
+			"owner.regi",
+			"import Ser",
+			".",
+			"sr-RS",
+			"setupte",
+			"owner.reg",
+			"mmddyyyy",
+			"isoDateString",
+			"value=\"d",
+			".nav",
+			".days",
+			"qwer",
+			"onFocusDay",
+			"setDate",
+			"from 'ember-power-calendar/components/",
+			"onFocu",
+			"DatePicker",
+			"setDateFromPicker",
+			"fromJSDate",
+			"powercal",
+			"power-cal",
+			"DateTime",
+			"luxon",
+			"moment",
+			"<input data-test-form-input=\"\" class=\"prodicle-form-field prodicle-form-input t-form-input\" id=\"datepicker-input-ember257\" name=\"datepicker-input-ember257\" data-test-selected-date=\"\" data-ebd-id=\"ember260-trigger\">",
+			"handleClose",
+			"daterange",
+			"{{#basic",
+			"BasicDr",
+			"date-range",
+			"maybe-",
+			"EmberPowerCalendarRangeDays",
+			"date-rang",
+			"this.",
+			"{{@",
+			"date-picker-text-input-dropdown",
+			"hash-for",
+			"hash-fof-d",
+			"#ember-basic-dropdown-content-",
+			"date-picker-text-input-dropd",
+			"date-picker-text-in",
+			"dateText",
+			"setDate",
+			"datetime",
+			" (",
+			"datetime",
+			"setDateFromInput",
+			"dateText",
+			"datetime",
+			"@",
+			"date-picker-text-input-drop",
+			"ProdicleFormDatePickerTextInputDropdown",
+			".toJ",
+			".to",
+			"new Dat",
+			"selectedDateText",
+			"value=",
+			"lux",
+			"value=",
+			"target=\"",
+			"luxon",
+			"ProdicleFormDatePickerTextInputDropdown",
+			"setDate",
+			"ProdicleFormDatePickerTextInputDropdown",
+			"anchor",
+			"computedRouteSegments",
+			"file-inpu",
+			"link=",
+			"headernav",
+			"core-nav",
+			"anchor",
+			"meechum?",
+			"meechum/",
+			"{{anch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/tj/code/dockyard/prodicle-core-components/src/tests/integration/components/prodicle-form/date-picker-text-input-dropdown-test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2742,
+								2742
+							]
+						],
+						"settings":
+						{
+							"_nv_visual_sel_mode": "mode_visual",
+							"highlight_line": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 8
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 95.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/tj/code/dockyard/prodicle-core-components/src/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1260,
+								1260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 35
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 419.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/tj/code/dockyard/prodicle-core-components/src/addon/templates/components/prodicle-form/date-picker.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								479,
+								479
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 10
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prodicle-core-components.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lock",
+				"src/package-lock.json"
+			],
+			[
+				"cha",
+				"CHANGELOG.md"
+			],
+			[
+				"pack",
+				"src/package.json"
+			],
+			[
+				"pac",
+				"src/package.json"
+			],
+			[
+				"date-pichb",
+				"src/addon/templates/components/prodicle-form/date-picker.hbs"
+			],
+			[
+				"datepickhb",
+				"src/addon/templates/components/prodicle-form/date-picker.hbs"
+			],
+			[
+				"intldat",
+				"src/addon/utils/intl-date-format.js"
+			],
+			[
+				"dropdtest",
+				"src/tests/integration/components/prodicle-form/date-picker-text-input-dropdown-test.js"
+			],
+			[
+				"con",
+				"CONTRIBUTING.md"
+			],
+			[
+				"chan",
+				"CHANGELOG.md"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"cahn",
+				"CHANGELOG.md"
+			],
+			[
+				"datedrop",
+				"src/addon/templates/components/prodicle-form/date-picker-text-input-dropdown.hbs"
+			],
+			[
+				"date-picdrop",
+				"src/addon/components/prodicle-form/date-picker-text-input-dropdown.js"
+			],
+			[
+				"indehb",
+				"src/tests/dummy/app/templates/datepicker/index.hbs"
+			],
+			[
+				"snippets/drop",
+				"src/tests/dummy/app/snippets/datepicker/datepicker-dropdown.hbs"
+			],
+			[
+				"keys",
+				"src/addon/utils/keys.js"
+			],
+			[
+				"pa",
+				"src/package.json"
+			],
+			[
+				"dorptes",
+				"src/tests/integration/components/prodicle-form/date-picker-text-input-dropdown-test.js"
+			],
+			[
+				"intdrop",
+				"src/addon/components/prodicle-form/date-picker-text-input-dropdown.js"
+			],
+			[
+				"date-pich",
+				"src/addon/templates/components/prodicle-form/date-picker.hbs"
+			],
+			[
+				"datdrop",
+				"src/addon/templates/components/prodicle-form/date-picker-text-input-dropdown.hbs"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"chang",
+				"CHANGELOG.md"
+			],
+			[
+				"datepich",
+				"src/addon/templates/components/prodicle-form/date-picker.hbs"
+			],
+			[
+				"-datepihbs",
+				"src/addon/templates/components/prodicle-form/-date-picker-days.hbs"
+			],
+			[
+				"datepictest",
+				"src/tests/integration/components/prodicle-form/date-picker-test.js"
+			],
+			[
+				"date-picer.j",
+				"src/addon/components/prodicle-form/date-picker.js"
+			],
+			[
+				"index.js",
+				"src/tests/dummy/app/controllers/datepicker/index.js"
+			],
+			[
+				"datepickerd",
+				"src/tests/dummy/app/snippets/datepicker/datepicker-defaults.hbs"
+			],
+			[
+				"datpickindhb",
+				"src/tests/dummy/app/templates/datepicker/index.hbs"
+			],
+			[
+				"ind",
+				"src/tests/dummy/app/controllers/datepicker/index.js"
+			],
+			[
+				"textinf",
+				"src/addon/templates/components/prodicle-form/text-input-field.hbs"
+			],
+			[
+				"formlab",
+				"src/app/components/prodicle-form-label.js"
+			],
+			[
+				"textinpfi",
+				"src/addon/templates/components/prodicle-form/text-input-field.hbs"
+			],
+			[
+				"intdat",
+				"src/addon/utils/intl-date-format.js"
+			],
+			[
+				"intda",
+				"src/tests/unit/utils/intl-date-format-test.js"
+			],
+			[
+				"datepicker/ind",
+				"src/tests/dummy/app/templates/datepicker/index.hbs"
+			],
+			[
+				"textin",
+				"src/addon/templates/components/prodicle-form/text-input-field.hbs"
+			],
+			[
+				"datepicindex.js",
+				"src/tests/dummy/app/controllers/datepicker/index.js"
+			],
+			[
+				"datepickerindexh",
+				"src/tests/dummy/app/templates/datepicker/index.hbs"
+			],
+			[
+				"date-pi",
+				"src/addon/components/prodicle-form/date-picker.js"
+			],
+			[
+				"inputdrophb",
+				"src/addon/templates/components/prodicle-form/date-picker-text-input-dropdown.hbs"
+			],
+			[
+				"datepickerdays",
+				"src/addon/components/prodicle-form/-date-picker-days.js"
+			],
+			[
+				"datepickerdayshb",
+				"src/addon/templates/components/prodicle-form/-date-picker-days.hbs"
+			],
+			[
+				"datpickdays",
+				"src/addon/templates/components/prodicle-form/-date-picker-days.hbs"
+			],
+			[
+				"fieldgrp",
+				"src/addon/templates/components/prodicle-form/field-group.hbs"
+			],
+			[
+				"prodformda",
+				"src/app/components/prodicle-form-date-picker.js"
+			],
+			[
+				"datepictextindr",
+				"src/tests/integration/components/prodicle-form/date-picker-text-input-dropdown-test.js"
+			],
+			[
+				"qwerhb",
+				"src/addon/templates/components/qwer.hbs"
+			],
+			[
+				"datepi",
+				"src/addon/components/prodicle-form/date-picker.js"
+			],
+			[
+				"textinfie",
+				"src/addon/templates/components/prodicle-form/text-input-field.hbs"
+			],
+			[
+				"prodtexin",
+				"src/app/components/prodicle-form-text-input-field.js"
+			],
+			[
+				"intdrop.j",
+				"src/addon/components/prodicle-form/date-picker-text-input-dropdown.js"
+			],
+			[
+				"daterang",
+				"src/addon/components/prodicle-form/-date-range-picker-days.js"
+			],
+			[
+				"prodfordatepitextdroh",
+				"src/addon/templates/components/prodicle-form/date-picker-text-input-dropdown.hbs"
+			],
+			[
+				"prodfordate",
+				"src/app/components/prodicle-form-date-picker.js"
+			],
+			[
+				"dropdojs",
+				"src/addon/components/prodicle-form/date-picker-text-input-dropdown.js"
+			],
+			[
+				"datepictextinhb",
+				"src/addon/templates/components/prodicle-form/date-picker-text-input.hbs"
+			],
+			[
+				"datepickerdrop",
+				"src/tests/dummy/app/snippets/datepicker/datepicker-dropdown.hbs"
+			],
+			[
+				"datepickerdr",
+				"src/tests/dummy/app/snippets/datepicker/datepicker-dropdown.hbs"
+			],
+			[
+				"datepic",
+				"src/addon/components/prodicle-form/date-picker.js"
+			],
+			[
+				"prodformdatepi",
+				"src/app/components/prodicle-form-date-picker.js"
+			],
+			[
+				"datehb",
+				"src/tests/dummy/app/templates/datepicker.hbs"
+			],
+			[
+				"conf",
+				"root/etc/default/ezconfig"
+			],
+			[
+				"chanl",
+				"CHANGELOG.md"
+			],
+			[
+				"contri",
+				"CONTRIBUTING.md"
+			],
+			[
+				"tetinpufie",
+				"src/addon/components/prodicle-form/text-input-field.js"
+			],
+			[
+				"textinputfie",
+				"src/addon/templates/components/prodicle-form/text-input-field.hbs"
+			],
+			[
+				"datepickertextinptudrophb",
+				"src/addon/templates/components/prodicle-form/date-picker-text-input-dropdown.hbs"
+			],
+			[
+				"datepickertextinputtest",
+				"src/tests/integration/components/prodicle-form/date-picker-text-input-dropdown-test.js"
+			],
+			[
+				"prodicformdat",
+				"src/app/components/prodicle-form-date-picker.js"
+			],
+			[
+				"datepickertest",
+				"src/tests/integration/components/prodicle-form/datepicker-test.js"
+			],
+			[
+				"datepicketextindro",
+				"src/addon/components/prodicle-form/date-picker-text-input-dropdown.js"
+			],
+			[
+				"textinphb",
+				"src/addon/templates/components/prodicle-form/text-input-field.hbs"
+			],
+			[
+				"ProdicleFormDatePickerTextInputDropdown",
+				"src/app/components/prodicle-form-date-picker-text-input-dropdown.js"
+			],
+			[
+				"datepicktextinpdrop",
+				"src/addon/components/prodicle-form/date-picker-text-input-dropdown.js"
+			],
+			[
+				"datepickertext",
+				"src/addon/templates/components/prodicle-form/date-picker-text-input.hbs"
+			],
+			[
+				"formdatepickertext",
+				"src/app/components/prodicle-form-date-picker-text-input.js"
+			],
+			[
+				"datepickerdropdown",
+				"src/tests/integration/components/prodicle-form/date-picker-text-input-dropdown-test.js"
+			],
+			[
+				"datepin",
+				"src/addon/components/prodicle-form/date-picker-text-input-dropdown.js"
+			],
+			[
+				"datepickerinpudro",
+				"src/addon/templates/components/prodicle-form/date-picker-text-input-dropdown.hbs"
+			],
+			[
+				"anchor",
+				"src/addon/components/prodicle-menu/anchor.js"
+			],
+			[
+				"gett",
+				"src/docs/001-getting-started.md"
+			],
+			[
+				"linkt-",
+				"src/addon/components/prodicle-menu/link-to.js"
+			],
+			[
+				"link-t",
+				"src/addon/templates/components/prodicle-menu/link-to.hbs"
+			],
+			[
+				"prodmen",
+				"src/addon/templates/components/prodicle-menu.hbs"
+			],
+			[
+				"linkhb",
+				"src/addon/templates/components/prodicle-menu/link-to.hbs"
+			],
+			[
+				"prodicleheaderna",
+				"src/app/components/prodicle-header-nav.js"
+			],
+			[
+				"subhhe",
+				"src/addon/templates/components/prodicle-page-header/subhead.hbs"
+			],
+			[
+				"subhead",
+				"src/tests/integration/components/prodicle-page-header/subhead-test.js"
+			],
+			[
+				"header",
+				"src/addon/templates/components/prodicle-header.hbs"
+			],
+			[
+				"prodem",
+				"src/addon/components/prodicle-empty-state.js"
+			],
+			[
+				"envi",
+				"src/tests/dummy/config/environment.js"
+			],
+			[
+				"env",
+				"src/config/environment.js"
+			],
+			[
+				"modaltes",
+				"src/tests/integration/components/prodicle-modal-test.js"
+			],
+			[
+				"util",
+				"src/addon/utils/focusable-element-finders.js"
+			],
+			[
+				"conten",
+				"src/addon/components/prodicle-modal/content.js"
+			],
+			[
+				"utils",
+				"src/addon/utils/focusable-element-finders.js"
+			],
+			[
+				"modaltest",
+				"src/tests/integration/components/prodicle-modal-test.js"
+			],
+			[
+				"modal.js",
+				"src/addon/components/prodicle-modal.js"
+			],
+			[
+				"focus",
+				"src/app/utils/focusable-element-finders.js"
+			],
+			[
+				"focusab",
+				"src/addon/utils/focusable-element-finders.js"
+			],
+			[
+				"modalhb",
+				"src/addon/templates/components/prodicle-modal.hbs"
+			],
+			[
+				"profill",
+				"src/addon/templates/components/prodicle-button-filled.hbs"
+			],
+			[
+				"prodfilled",
+				"src/addon/components/prodicle-button-filled.js"
+			],
+			[
+				"prodiclemodalhb",
+				"src/addon/templates/components/prodicle-modal.hbs"
+			],
+			[
+				"selecsec",
+				"src/app/controllers/scripts/script/sides/select-scenes.js"
+			],
+			[
+				"scen",
+				"src/app/models/scene.js"
+			],
+			[
+				"selech",
+				"src/app/templates/scripts/script/sides/select-scenes.hbs"
+			],
+			[
+				"scnetest",
+				"src/tests/acceptance/select-scenes-test.js"
+			],
+			[
+				"const",
+				"src/app/constants.js"
+			],
+			[
+				"sceneshots",
+				"src/app/components/scene-shots.js"
+			],
+			[
+				"scene-shots-",
+				"src/tests/integration/components/scene-shots-test.js"
+			],
+			[
+				"shot",
+				"src/app/models/shot.js"
+			],
+			[
+				"sceneshothb",
+				"src/app/templates/components/scene-shots.hbs"
+			],
+			[
+				"selecsce",
+				"src/app/controllers/scripts/script/sides/select-scenes.js"
+			],
+			[
+				"scenelihbs",
+				"src/app/templates/components/scene-list-item.hbs"
+			],
+			[
+				"sideslisthb",
+				"src/app/templates/components/sides-list.hbs"
+			],
+			[
+				"scelihb",
+				"src/app/templates/components/sides-list.hbs"
+			],
+			[
+				"selecsch",
+				"src/app/templates/scripts/script/sides/select-scenes.hbs"
+			],
+			[
+				"scenhbs",
+				"src/app/templates/components/scene-edit.hbs"
+			],
+			[
+				"selecstes",
+				"src/tests/acceptance/select-scenes-test.js"
+			],
+			[
+				"selecscehbs",
+				"src/app/templates/scripts/script/sides/select-scenes.hbs"
+			],
+			[
+				"rout",
+				"src/app/router.js"
+			],
+			[
+				"selecse",
+				"src/app/routes/scripts/script/sides/select-scenes.js"
+			],
+			[
+				"selecscen",
+				"src/app/controllers/scripts/script/sides/select-scenes.js"
+			],
+			[
+				"serialisc",
+				"src/mirage/serializers/script.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "power-cale",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_last_char_search": ",",
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_reset_during_init": true
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

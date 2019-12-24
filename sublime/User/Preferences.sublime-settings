@@ -1,0 +1,38 @@
+{
+	"added_words":
+	[
+		">());"
+	],
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/Color Scheme - MonokaiKNIFETOMEETYOU/MonokaiHAVEAIKNIFEDAY.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"dist",
+		"bin",
+		"obj",
+		"node_modules",
+		"_build",
+		"build",
+		"deps"
+	],
+	"font_face": "Fira Code",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Six",
+		"Vintage",
+		"Vintageous"
+	],
+	"neovintageous_build_version": 11100,
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintageous_use_ctrl_keys": true,
+	"vintageous_use_super_keys": false
+}
