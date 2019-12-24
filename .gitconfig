@@ -1,0 +1,14 @@
+[user]
+	name = yohanmishkin
+	email = yohanmishkin@protonmail.com
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore
+[alias]
+	co = checkout
+	clear = co -- .
+	diffm = diff --stat origin/master
+	fetchp = fetch -p
+	pushf = push --force-with-lease
+	st = status
+
